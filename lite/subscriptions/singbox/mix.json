@@ -123,7 +123,7 @@
                 "🇩🇪DE | vless | @CUSTOMVPNSERVER | 14",
                 "🇨🇷CR | vless | @DigiV2ray | 16",
                 "🇨🇦CA | vless | @DarkTeam_VPN | 17",
-                "TVChebnkqngds",
+                "TVCyqozyjuiqx",
                 "🇮🇷IR | vless | @V2raysFree | 12",
                 "🇩🇪DE | vless | @v2logy | 18",
                 "🇳🇱NL | vless | @servermomo | 14",
@@ -136,7 +136,7 @@
                 "🇫🇷FR | trojan | @DirectVPN | 15",
                 "🇫🇷FR | vmess | @v2ray_outlineir | 0",
                 "🇹🇼TW | vmess | @mftizi | 18",
-                "🇺🇸US | vmess | @oneclickvpnkeys | 11",
+                "🇻🇳VN | vmess | @oneclickvpnkeys | 10",
                 "🇨🇦CA | vless | @prrofile_purple | 178",
                 "🇮🇷IR | vmess | @customv2ray | 15",
                 "🇨🇦CA | vless | @UnlimitedDev | 6",
@@ -171,7 +171,7 @@
                 "🇨🇦CA | vless | @Capoit | 4",
                 "🇨🇷CR | vless | @FreakConfig | 11",
                 "🇹🇷TR | vless | @flyv2ray | 20",
-                "🇨🇦CA | vless | @forwardv2ray | 17",
+                "🇨🇦CA | vmess | @forwardv2ray | 9",
                 "🇨🇦CA | vless | @FAKEOFTVC | 2",
                 "🇨🇦CA | vless | @https_config_injector | 14",
                 "🇺🇸US | vless | @mehrosaboran | 20",
@@ -205,7 +205,7 @@
                 "🇩🇪DE | vless | @CUSTOMVPNSERVER | 14",
                 "🇨🇷CR | vless | @DigiV2ray | 16",
                 "🇨🇦CA | vless | @DarkTeam_VPN | 17",
-                "TVChebnkqngds",
+                "TVCyqozyjuiqx",
                 "🇮🇷IR | vless | @V2raysFree | 12",
                 "🇩🇪DE | vless | @v2logy | 18",
                 "🇳🇱NL | vless | @servermomo | 14",
@@ -218,7 +218,7 @@
                 "🇫🇷FR | trojan | @DirectVPN | 15",
                 "🇫🇷FR | vmess | @v2ray_outlineir | 0",
                 "🇹🇼TW | vmess | @mftizi | 18",
-                "🇺🇸US | vmess | @oneclickvpnkeys | 11",
+                "🇻🇳VN | vmess | @oneclickvpnkeys | 10",
                 "🇨🇦CA | vless | @prrofile_purple | 178",
                 "🇮🇷IR | vmess | @customv2ray | 15",
                 "🇨🇦CA | vless | @UnlimitedDev | 6",
@@ -253,7 +253,7 @@
                 "🇨🇦CA | vless | @Capoit | 4",
                 "🇨🇷CR | vless | @FreakConfig | 11",
                 "🇹🇷TR | vless | @flyv2ray | 20",
-                "🇨🇦CA | vless | @forwardv2ray | 17",
+                "🇨🇦CA | vmess | @forwardv2ray | 9",
                 "🇨🇦CA | vless | @FAKEOFTVC | 2",
                 "🇨🇦CA | vless | @https_config_injector | 14",
                 "🇺🇸US | vless | @mehrosaboran | 20",
@@ -826,7 +826,7 @@
             }
         },
         {
-            "tag": "TVChebnkqngds",
+            "tag": "TVCyqozyjuiqx",
             "type": "vless",
             "server": "",
             "server_port": 0,
@@ -1161,11 +1161,11 @@
             }
         },
         {
-            "tag": "🇺🇸US | vmess | @oneclickvpnkeys | 11",
+            "tag": "🇻🇳VN | vmess | @oneclickvpnkeys | 10",
             "type": "vmess",
-            "server": "usa.ht4gvpn.com",
+            "server": "diamond.ht4gvpn.com",
             "server_port": 80,
-            "uuid": "106ac14b-8b8b-4ce7-a549-a814d8a94b49",
+            "uuid": "2b69324d-5fe2-48c2-923f-049c3093cd56",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
@@ -2089,13 +2089,16 @@
             }
         },
         {
-            "tag": "🇨🇦CA | vless | @forwardv2ray | 17",
-            "type": "vless",
-            "server": "robosta.turk.coffee",
-            "server_port": 80,
-            "uuid": "4a7cc31b-e7d2-4874-ffdc-6450f22634ba",
-            "flow": "",
-            "packet_encoding": "xudp",
+            "tag": "🇨🇦CA | vmess | @forwardv2ray | 9",
+            "type": "vmess",
+            "server": "104.27.102.105",
+            "server_port": 8080,
+            "uuid": "Telegram-V2ray_alpha",
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
@@ -2103,9 +2106,9 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/Tell : vpnv2rayspeed",
+                "path": "\/",
                 "headers": {
-                    "Host": "robosta.turk.coffee"
+                    "Host": ""
                 }
             }
         },
