@@ -426,7 +426,7 @@
             "vless",
             "ss"
         ],
-        "title": "🔥اموزش کانفیگ برنامه🔥",
+        "title": "🔥رضایت مشتریا عزیزمون🔥",
         "logo": "https:\/\/raw.githubusercontent.com\/yebekhe\/TVC\/main\/channelsData\/logos\/hcv2ray.jpg"
     },
     "V2rayng_Fast": {
@@ -844,7 +844,7 @@
         "types": [
             "vless"
         ],
-        "title": "SVN Team | اینترنت آزاد",
+        "title": "𝗦𝗩𝗡 𝗧𝗘𝗔𝗠 اینترنت آزاد",
         "logo": "https:\/\/raw.githubusercontent.com\/yebekhe\/TVC\/main\/channelsData\/logos\/SvnTeam.jpg"
     },
     "Good_V2rayy": {
@@ -884,5 +884,12 @@
         ],
         "title": "VPN FREE",
         "logo": "https:\/\/raw.githubusercontent.com\/yebekhe\/TVC\/main\/channelsData\/logos\/SINABIGO.jpg"
+    },
+    "V2FETCH": {
+        "types": [
+            "vless"
+        ],
+        "title": "V2FETCH",
+        "logo": "https:\/\/raw.githubusercontent.com\/yebekhe\/TVC\/main\/channelsData\/logos\/V2FETCH.jpg"
     }
 }
