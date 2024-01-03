@@ -168,7 +168,7 @@ proxies:
   - {"name":"🇨🇷CR | vless | @proxy_mtm | 21","type":"vless","server":"190.93.247.155","port":443,"udp":false,"uuid":"0ae932ed-a628-4953-9397-4710a01e783a","tls":true,"network":"grpc","client-fingerprint":"chrome"}
   - {"name":"🏳️XX | vless | @kingofilter | 12","type":"vless","server":"kv.randwicks.shop","port":2083,"udp":false,"uuid":"66dbd4c7-6866-4527-b923-d064431c8524","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"kv.randwicks.shop","ws-opts":{"path":"/action_page.php","headers":{"host":"kv.randwicks.shop"}}}
   - {"name":"🇬🇧GB | vless | @freeconfigv2 | 14","type":"vless","server":"51.89.156.132","port":42440,"udp":false,"uuid":"ee1a886f-05ba-4407-bdd1-efdb4daac2f6","tls":false,"network":"tcp","client-fingerprint":"chrome","flow":"xtls-rprx-vision"}
-  - {"name":"🇺🇸US | vless | @SvnTeam | 7","type":"vless","server":"mtn.vpnprosec.com","port":443,"udp":false,"uuid":"37b9069c-ee92-4234-9df1-e7b026b7a109","tls":true,"network":"grpc","client-fingerprint":"chrome","servername":"OneAgV2rayes.Dreamsvn.Site","grpc-opts":{"grpc-service-name":""}}
+  - {"name":"🇨🇦CA | vless | @SvnTeam | 7","type":"vless","server":"mtn.vpnprosec.com","port":443,"udp":false,"uuid":"37b9069c-ee92-4234-9df1-e7b026b7a109","tls":true,"network":"grpc","client-fingerprint":"chrome","servername":"OneAgV2rayes.Dreamsvn.Site","grpc-opts":{"grpc-service-name":""}}
 proxy-groups:
   - name: MANUAL
     type: select
@@ -223,7 +223,7 @@ proxy-groups:
       - '🇨🇷CR | vless | @proxy_mtm | 21'
       - '🏳️XX | vless | @kingofilter | 12'
       - '🇬🇧GB | vless | @freeconfigv2 | 14'
-      - '🇺🇸US | vless | @SvnTeam | 7'
+      - '🇨🇦CA | vless | @SvnTeam | 7'
   - name: URL-TEST
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -278,7 +278,7 @@ proxy-groups:
       - '🇨🇷CR | vless | @proxy_mtm | 21'
       - '🏳️XX | vless | @kingofilter | 12'
       - '🇬🇧GB | vless | @freeconfigv2 | 14'
-      - '🇺🇸US | vless | @SvnTeam | 7'
+      - '🇨🇦CA | vless | @SvnTeam | 7'
   - name: FALLBACK
     type: fallback
     url: http://www.gstatic.com/generate_204
@@ -332,7 +332,7 @@ proxy-groups:
       - '🇨🇷CR | vless | @proxy_mtm | 21'
       - '🏳️XX | vless | @kingofilter | 12'
       - '🇬🇧GB | vless | @freeconfigv2 | 14'
-      - '🇺🇸US | vless | @SvnTeam | 7'
+      - '🇨🇦CA | vless | @SvnTeam | 7'
 rule-providers:
   ir: {type: http, format: text, behavior: domain, path: ./ruleset/ir.txt, url: https://github.com/chocolate4u/Iran-clash-rules/releases/latest/download/ir.txt, interval: 86400}
   ads: {type: http, format: text, behavior: domain, path: ./ruleset/ads.txt, url: https://github.com/chocolate4u/Iran-clash-rules/releases/latest/download/ads.txt, interval: 86400}
