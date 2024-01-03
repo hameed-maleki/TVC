@@ -109,11 +109,13 @@
                 "🇫🇷FR | vmess | @v2ray_outlineir | 0",
                 "🇹🇼TW | vmess | @mftizi | 18",
                 "🇩🇪DE | vmess | @oneclickvpnkeys | 8",
-                "🇨🇦CA | vmess | @v2ray1_ng | 3",
+                "🇮🇷IR | vmess | @v2ray1_ng | 4",
+                "🇨🇦CA | vmess | @ConfigsHUB | 18",
                 "🇭🇰HK | vmess | @yaney_01 | 10",
                 "🇨🇦CA | vmess | @Hope_Net | 15",
                 "🇺🇸US | vmess | @v2Line | 9",
-                "🇮🇳IN | vmess | @eliya_chiter0 | 7"
+                "🇬🇧GB | vmess | @forwardv2ray | 2",
+                "🇮🇳IN | vmess | @eliya_chiter0 | 8"
             ]
         },
         {
@@ -123,11 +125,13 @@
                 "🇫🇷FR | vmess | @v2ray_outlineir | 0",
                 "🇹🇼TW | vmess | @mftizi | 18",
                 "🇩🇪DE | vmess | @oneclickvpnkeys | 8",
-                "🇨🇦CA | vmess | @v2ray1_ng | 3",
+                "🇮🇷IR | vmess | @v2ray1_ng | 4",
+                "🇨🇦CA | vmess | @ConfigsHUB | 18",
                 "🇭🇰HK | vmess | @yaney_01 | 10",
                 "🇨🇦CA | vmess | @Hope_Net | 15",
                 "🇺🇸US | vmess | @v2Line | 9",
-                "🇮🇳IN | vmess | @eliya_chiter0 | 7"
+                "🇬🇧GB | vmess | @forwardv2ray | 2",
+                "🇮🇳IN | vmess | @eliya_chiter0 | 8"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "3m",
@@ -218,11 +222,28 @@
             }
         },
         {
-            "tag": "🇨🇦CA | vmess | @v2ray1_ng | 3",
+            "tag": "🇮🇷IR | vmess | @v2ray1_ng | 4",
             "type": "vmess",
-            "server": "104.21.20.148",
-            "server_port": 2086,
-            "uuid": "Telegram-V2ray_alpha",
+            "server": "81.12.27.7",
+            "server_port": 37975,
+            "uuid": "b3c49b53-2d5d-4d13-d195-76d48aeccd11",
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
+        },
+        {
+            "tag": "🇨🇦CA | vmess | @ConfigsHUB | 18",
+            "type": "vmess",
+            "server": "104.21.28.62",
+            "server_port": 443,
+            "uuid": "0d9776dd-e12e-4a5e-9bf2-8cceb1b502f1",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
@@ -233,11 +254,21 @@
                 "protocol": "smux",
                 "max_streams": 32
             },
+            "tls": {
+                "enabled": true,
+                "server_name": "pt1-vmess.sshmax.xyz",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
             "transport": {
                 "type": "ws",
-                "path": "\/",
+                "path": "\/vmess",
                 "headers": {
-                    "Host": ""
+                    "Host": "pt1-vmess.sshmax.xyz"
                 }
             }
         },
@@ -317,7 +348,24 @@
             }
         },
         {
-            "tag": "🇮🇳IN | vmess | @eliya_chiter0 | 7",
+            "tag": "🇬🇧GB | vmess | @forwardv2ray | 2",
+            "type": "vmess",
+            "server": "51.75.162.199",
+            "server_port": 61570,
+            "uuid": "e6aab1e0-ede0-47c3-b01c-f34a498db838",
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
+        },
+        {
+            "tag": "🇮🇳IN | vmess | @eliya_chiter0 | 8",
             "type": "vmess",
             "server": "129.154.228.4",
             "server_port": 8084,
