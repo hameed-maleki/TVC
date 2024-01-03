@@ -121,7 +121,7 @@
                 "🇨🇷CR | vless | @V2rayNGmat | 1",
                 "🇩🇪DE | vless | @CUSTOMVPNSERVER | 14",
                 "🇨🇷CR | vless | @DigiV2ray | 16",
-                "TVCpzjtanwmog",
+                "TVCwdwzfrjnis",
                 "🇮🇷IR | vless | @V2raysFree | 12",
                 "🇩🇪DE | vless | @v2logy | 18",
                 "🇳🇱NL | vless | @servermomo | 14",
@@ -143,14 +143,14 @@
                 "🇨🇦CA | vless | @MsV2ray | 9",
                 "🇮🇷IR | vless | @vless_vmess | 3",
                 "🏳️XX | vless | @MTConfig | 21",
-                "🇨🇷CR | vless | @V2RayTz | 17",
+                "🇺🇸US | vless | @V2RayTz | 17",
                 "🇨🇷CR | vless | @VmessProtocol | 17",
                 "🇺🇸US | vless | @DailyV2RY | 9",
                 "🇨🇦CA | vless | @sinabigo | 1",
                 "🇨🇦CA | vless | @MehradLearn | 10",
                 "🇸🇪SE | vless | @SafeNet_Server | 10",
                 "🇨🇦CA | vless | @lrnbymaa | 10",
-                "🇨🇦CA | vless | @ConfigsHUB | 15",
+                "🇨🇷CR | vless | @ConfigsHUB | 18",
                 "🇨🇷CR | vless | @proxystore11 | 14",
                 "🇸🇪SE | vless | @free1_vpn | 0",
                 "🏳️XX | vless | @fnet00 | 10",
@@ -160,12 +160,12 @@
                 "🏳️XX | vless | @Capital_NET | 52",
                 "🇨🇦CA | vless | @Capoit | 7",
                 "🇩🇪DE | vless | @FreakConfig | 8",
-                "🇨🇦CA | vless | @forwardv2ray | 18",
+                "🇨🇦CA | vless | @forwardv2ray | 19",
                 "🇨🇦CA | vless | @FAKEOFTVC | 1",
                 "🇨🇦CA | vless | @https_config_injector | 14",
                 "🇺🇸US | vless | @mehrosaboran | 7",
                 "🇸🇪SE | vless | @kiava | 14",
-                "🇨🇦CA | vless | @proxy_mtm | 11",
+                "🇺🇸US | vless | @proxy_mtm | 11",
                 "🇨🇦CA | vless | @vpn_go67 | 23",
                 "🇬🇧GB | vless | @freeconfigv2 | 14",
                 "🇺🇸US | vless | @FoXrayIran | 6"
@@ -190,7 +190,7 @@
                 "🇨🇷CR | vless | @V2rayNGmat | 1",
                 "🇩🇪DE | vless | @CUSTOMVPNSERVER | 14",
                 "🇨🇷CR | vless | @DigiV2ray | 16",
-                "TVCpzjtanwmog",
+                "TVCwdwzfrjnis",
                 "🇮🇷IR | vless | @V2raysFree | 12",
                 "🇩🇪DE | vless | @v2logy | 18",
                 "🇳🇱NL | vless | @servermomo | 14",
@@ -212,14 +212,14 @@
                 "🇨🇦CA | vless | @MsV2ray | 9",
                 "🇮🇷IR | vless | @vless_vmess | 3",
                 "🏳️XX | vless | @MTConfig | 21",
-                "🇨🇷CR | vless | @V2RayTz | 17",
+                "🇺🇸US | vless | @V2RayTz | 17",
                 "🇨🇷CR | vless | @VmessProtocol | 17",
                 "🇺🇸US | vless | @DailyV2RY | 9",
                 "🇨🇦CA | vless | @sinabigo | 1",
                 "🇨🇦CA | vless | @MehradLearn | 10",
                 "🇸🇪SE | vless | @SafeNet_Server | 10",
                 "🇨🇦CA | vless | @lrnbymaa | 10",
-                "🇨🇦CA | vless | @ConfigsHUB | 15",
+                "🇨🇷CR | vless | @ConfigsHUB | 18",
                 "🇨🇷CR | vless | @proxystore11 | 14",
                 "🇸🇪SE | vless | @free1_vpn | 0",
                 "🏳️XX | vless | @fnet00 | 10",
@@ -229,12 +229,12 @@
                 "🏳️XX | vless | @Capital_NET | 52",
                 "🇨🇦CA | vless | @Capoit | 7",
                 "🇩🇪DE | vless | @FreakConfig | 8",
-                "🇨🇦CA | vless | @forwardv2ray | 18",
+                "🇨🇦CA | vless | @forwardv2ray | 19",
                 "🇨🇦CA | vless | @FAKEOFTVC | 1",
                 "🇨🇦CA | vless | @https_config_injector | 14",
                 "🇺🇸US | vless | @mehrosaboran | 7",
                 "🇸🇪SE | vless | @kiava | 14",
-                "🇨🇦CA | vless | @proxy_mtm | 11",
+                "🇺🇸US | vless | @proxy_mtm | 11",
                 "🇨🇦CA | vless | @vpn_go67 | 23",
                 "🇬🇧GB | vless | @freeconfigv2 | 14",
                 "🇺🇸US | vless | @FoXrayIran | 6"
@@ -733,7 +733,7 @@
             }
         },
         {
-            "tag": "TVCpzjtanwmog",
+            "tag": "TVCwdwzfrjnis",
             "type": "vless",
             "server": "",
             "server_port": 0,
@@ -1315,11 +1315,11 @@
             }
         },
         {
-            "tag": "🇨🇷CR | vless | @V2RayTz | 17",
+            "tag": "🇺🇸US | vless | @V2RayTz | 17",
             "type": "vless",
-            "server": "190.93.247.155",
-            "server_port": 443,
-            "uuid": "a8963cae-b425-45ac-8fb8-43e55ded0299",
+            "server": "190.93.244.103",
+            "server_port": 2083,
+            "uuid": "acddba4d-a449-4ba9-c24d-f66beed4074b",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1329,7 +1329,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "SHHV2ray.snappfoodd.site",
+                "server_name": "lightning6.liV2ray3.cfd",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -1339,7 +1339,7 @@
             },
             "transport": {
                 "type": "grpc",
-                "service_name": "@Shh_Proxy,@Shh_Proxy",
+                "service_name": "@LIGHTNING6",
                 "idle_timeout": "15s",
                 "ping_timeout": "15s",
                 "permit_without_stream": false
@@ -1500,11 +1500,11 @@
             }
         },
         {
-            "tag": "🇨🇦CA | vless | @ConfigsHUB | 15",
+            "tag": "🇨🇷CR | vless | @ConfigsHUB | 18",
             "type": "vless",
-            "server": "w2.sylarsun.eu.org",
+            "server": "all.v-2rayngvpn.cfd",
             "server_port": 443,
-            "uuid": "dfb18c6f-731a-4898-a1c4-cc36c6055a90",
+            "uuid": "0d377be4-ffcd-4959-a1cf-b3c9fcfceda2",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1514,7 +1514,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "w2.sylarsun.eu.org",
+                "server_name": "all.v-2rayngvpn.cfd",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -1523,11 +1523,11 @@
                 }
             },
             "transport": {
-                "type": "ws",
-                "path": "\/",
-                "headers": {
-                    "Host": "w2.sylarsun.eu.org"
-                }
+                "type": "grpc",
+                "service_name": "@v2rayvpn2",
+                "idle_timeout": "15s",
+                "ping_timeout": "15s",
+                "permit_without_stream": false
             }
         },
         {
@@ -1791,11 +1791,11 @@
             }
         },
         {
-            "tag": "🇨🇦CA | vless | @forwardv2ray | 18",
+            "tag": "🇨🇦CA | vless | @forwardv2ray | 19",
             "type": "vless",
-            "server": "w3.sylarsun.eu.org",
+            "server": "172.67.170.103",
             "server_port": 443,
-            "uuid": "89420825-e589-4735-bee1-6dc636fca343",
+            "uuid": "b9ad895b-12ac-40fc-a5ac-a5b2a1285001",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1805,7 +1805,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "w3.sylarsun.eu.org",
+                "server_name": "3k.pureboy.eu.org",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -1815,9 +1815,9 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/",
+                "path": "\/&@AstroVPN_official @AstroVPN_official @AstroVPN_official @AstroVPN_official @AstroVPN_official @AstroVPN_official @AstroVPN_official @AstroVPN_official",
                 "headers": {
-                    "Host": "w3.sylarsun.eu.org"
+                    "Host": "3k.pureboy.eu.org"
                 }
             }
         },
@@ -1944,7 +1944,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | vless | @proxy_mtm | 11",
+            "tag": "🇺🇸US | vless | @proxy_mtm | 11",
             "type": "vless",
             "server": "w1.sylar8.eu.org",
             "server_port": 443,
