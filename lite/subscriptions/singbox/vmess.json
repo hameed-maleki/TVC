@@ -106,34 +106,28 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST",
-                "🇮🇷IR | vmess | @V2rayCollectorDonate | 19",
                 "🇫🇷FR | vmess | @v2ray_outlineir | 0",
                 "🇹🇼TW | vmess | @mftizi | 18",
                 "🇩🇪DE | vmess | @oneclickvpnkeys | 8",
-                "🇮🇷IR | vmess | @v2ray1_ng | 4",
-                "🇨🇦CA | vmess | @ConfigsHUB | 19",
+                "🇨🇦CA | vmess | @v2ray1_ng | 3",
                 "🇭🇰HK | vmess | @yaney_01 | 10",
                 "🇨🇦CA | vmess | @Hope_Net | 15",
                 "🇺🇸US | vmess | @v2Line | 9",
-                "🇨🇦CA | vmess | @forwardv2ray | 15",
-                "🇮🇳IN | vmess | @eliya_chiter0 | 8"
+                "🇮🇳IN | vmess | @eliya_chiter0 | 7"
             ]
         },
         {
             "tag": "URL-TEST",
             "type": "urltest",
             "outbounds": [
-                "🇮🇷IR | vmess | @V2rayCollectorDonate | 19",
                 "🇫🇷FR | vmess | @v2ray_outlineir | 0",
                 "🇹🇼TW | vmess | @mftizi | 18",
                 "🇩🇪DE | vmess | @oneclickvpnkeys | 8",
-                "🇮🇷IR | vmess | @v2ray1_ng | 4",
-                "🇨🇦CA | vmess | @ConfigsHUB | 19",
+                "🇨🇦CA | vmess | @v2ray1_ng | 3",
                 "🇭🇰HK | vmess | @yaney_01 | 10",
                 "🇨🇦CA | vmess | @Hope_Net | 15",
                 "🇺🇸US | vmess | @v2Line | 9",
-                "🇨🇦CA | vmess | @forwardv2ray | 15",
-                "🇮🇳IN | vmess | @eliya_chiter0 | 8"
+                "🇮🇳IN | vmess | @eliya_chiter0 | 7"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "3m",
@@ -154,40 +148,6 @@
         {
             "tag": "dns-out",
             "type": "dns"
-        },
-        {
-            "tag": "🇮🇷IR | vmess | @V2rayCollectorDonate | 19",
-            "type": "vmess",
-            "server": "arv65.nvme.fun",
-            "server_port": 443,
-            "uuid": "167c83ed-363f-4aa9-89de-d24297b6d8a1",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "arv65.nvme.fun",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/JVNqX9dXix",
-                "headers": {
-                    "Host": "arv65.nvme.fun"
-                }
-            }
         },
         {
             "tag": "🇫🇷FR | vmess | @v2ray_outlineir | 0",
@@ -258,11 +218,11 @@
             }
         },
         {
-            "tag": "🇮🇷IR | vmess | @v2ray1_ng | 4",
+            "tag": "🇨🇦CA | vmess | @v2ray1_ng | 3",
             "type": "vmess",
-            "server": "81.12.27.7",
-            "server_port": 37975,
-            "uuid": "b3c49b53-2d5d-4d13-d195-76d48aeccd11",
+            "server": "104.21.20.148",
+            "server_port": 2086,
+            "uuid": "Telegram-V2ray_alpha",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
@@ -272,39 +232,12 @@
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            }
-        },
-        {
-            "tag": "🇨🇦CA | vmess | @ConfigsHUB | 19",
-            "type": "vmess",
-            "server": "v2ray.v2bro.fun",
-            "server_port": 443,
-            "uuid": "3375cce0-c0c0-4532-bcbd-0f93f8df864f",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "v2ray.v2bro.fun",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
             },
             "transport": {
                 "type": "ws",
-                "path": "\/ws",
+                "path": "\/",
                 "headers": {
-                    "Host": "v2ray.v2bro.fun"
+                    "Host": ""
                 }
             }
         },
@@ -384,35 +317,11 @@
             }
         },
         {
-            "tag": "🇨🇦CA | vmess | @forwardv2ray | 15",
-            "type": "vmess",
-            "server": "104.17.62.27",
-            "server_port": 2082,
-            "uuid": "aa95e847-f563-49ee-b6fa-28f7c2ab9aa0",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/asdas",
-                "headers": {
-                    "Host": ""
-                }
-            }
-        },
-        {
-            "tag": "🇮🇳IN | vmess | @eliya_chiter0 | 8",
+            "tag": "🇮🇳IN | vmess | @eliya_chiter0 | 7",
             "type": "vmess",
             "server": "129.154.228.4",
-            "server_port": 8085,
-            "uuid": "587da4bb-a799-418e-ab50-2cb5f632c691",
+            "server_port": 8084,
+            "uuid": "f49ed5da-ce2e-4e38-a723-31acf6cd96f9",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
