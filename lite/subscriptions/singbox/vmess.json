@@ -110,10 +110,12 @@
                 "🇫🇷FR | vmess | @v2ray_outlineir | 0",
                 "🇹🇼TW | vmess | @mftizi | 18",
                 "🇩🇪DE | vmess | @oneclickvpnkeys | 8",
-                "🇮🇷IR | vmess | @v2ray1_ng | 3",
+                "🇮🇷IR | vmess | @v2ray1_ng | 4",
+                "🇨🇦CA | vmess | @ConfigsHUB | 19",
                 "🇭🇰HK | vmess | @yaney_01 | 10",
                 "🇨🇦CA | vmess | @Hope_Net | 15",
                 "🇺🇸US | vmess | @v2Line | 9",
+                "🇨🇦CA | vmess | @forwardv2ray | 15",
                 "🇮🇳IN | vmess | @eliya_chiter0 | 8"
             ]
         },
@@ -125,10 +127,12 @@
                 "🇫🇷FR | vmess | @v2ray_outlineir | 0",
                 "🇹🇼TW | vmess | @mftizi | 18",
                 "🇩🇪DE | vmess | @oneclickvpnkeys | 8",
-                "🇮🇷IR | vmess | @v2ray1_ng | 3",
+                "🇮🇷IR | vmess | @v2ray1_ng | 4",
+                "🇨🇦CA | vmess | @ConfigsHUB | 19",
                 "🇭🇰HK | vmess | @yaney_01 | 10",
                 "🇨🇦CA | vmess | @Hope_Net | 15",
                 "🇺🇸US | vmess | @v2Line | 9",
+                "🇨🇦CA | vmess | @forwardv2ray | 15",
                 "🇮🇳IN | vmess | @eliya_chiter0 | 8"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
@@ -254,7 +258,7 @@
             }
         },
         {
-            "tag": "🇮🇷IR | vmess | @v2ray1_ng | 3",
+            "tag": "🇮🇷IR | vmess | @v2ray1_ng | 4",
             "type": "vmess",
             "server": "81.12.27.7",
             "server_port": 37975,
@@ -268,6 +272,40 @@
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
+            }
+        },
+        {
+            "tag": "🇨🇦CA | vmess | @ConfigsHUB | 19",
+            "type": "vmess",
+            "server": "v2ray.v2bro.fun",
+            "server_port": 443,
+            "uuid": "3375cce0-c0c0-4532-bcbd-0f93f8df864f",
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "v2ray.v2bro.fun",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/ws",
+                "headers": {
+                    "Host": "v2ray.v2bro.fun"
+                }
             }
         },
         {
@@ -290,9 +328,9 @@
         {
             "tag": "🇨🇦CA | vmess | @Hope_Net | 15",
             "type": "vmess",
-            "server": "104.27.102.105",
-            "server_port": 8080,
-            "uuid": "Telegram-V2ray_alpha",
+            "server": "107.175.37.186",
+            "server_port": 80,
+            "uuid": "dccb5580-de8d-4aca-a9a5-f986da33faa6",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
@@ -340,6 +378,30 @@
             "transport": {
                 "type": "ws",
                 "path": "\/racevpn",
+                "headers": {
+                    "Host": ""
+                }
+            }
+        },
+        {
+            "tag": "🇨🇦CA | vmess | @forwardv2ray | 15",
+            "type": "vmess",
+            "server": "104.17.62.27",
+            "server_port": 2082,
+            "uuid": "aa95e847-f563-49ee-b6fa-28f7c2ab9aa0",
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/asdas",
                 "headers": {
                     "Host": ""
                 }
