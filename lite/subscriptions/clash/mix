@@ -125,7 +125,6 @@ proxies:
   - {"name":"🇹🇼TW | vmess | @mftizi | 18","type":"vmess","server":"b22.ntbq.dynu.net","port":"443","cipher":"auto","uuid":"28e08966-170c-4b59-8756-14dfad41157a","alterId":"0","tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/b22","headers":{"host":"b22.ntbq.dynu.net"}}}
   - {"name":"🇺🇸US | ss | @OutlineVpnOfficial | 18","type":"ss","server":"www.outline.network.ak1985.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou","port":2443,"password":"5O+1vuAy1jMIm3H3olcLL53lZy/9akX8UvaItv6ls2M=","cipher":"aes-256-gcm"}
   - {"name":"🇺🇸US | vmess | @v2Line | 9","type":"vmess","server":"v2line.telegram.channel.1371.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou","port":"443","cipher":"auto","uuid":"540bfb2c-2b26-4154-b5be-55d08bf40add","alterId":"0","tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/racevpn","headers":{"host":""}}}
-  - {"name":"🇮🇪IE | trojan | @forwardv2ray | 13","type":"trojan","server":"3.255.61.164","port":22222,"udp":false,"password":"telegram-id-directvpn","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trj.rollingnext.co.uk"}
   - {"name":"🇮🇳IN | vmess | @eliya_chiter0 | 8","type":"vmess","server":"129.154.228.4","port":"8085","cipher":"auto","uuid":"587da4bb-a799-418e-ab50-2cb5f632c691","alterId":"0","tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/vmess","headers":{"host":"eliya_chiter0"}}}
 proxy-groups:
   - name: MANUAL
@@ -140,7 +139,6 @@ proxy-groups:
       - '🇹🇼TW | vmess | @mftizi | 18'
       - '🇺🇸US | ss | @OutlineVpnOfficial | 18'
       - '🇺🇸US | vmess | @v2Line | 9'
-      - '🇮🇪IE | trojan | @forwardv2ray | 13'
       - '🇮🇳IN | vmess | @eliya_chiter0 | 8'
   - name: URL-TEST
     type: url-test
@@ -155,7 +153,6 @@ proxy-groups:
       - '🇹🇼TW | vmess | @mftizi | 18'
       - '🇺🇸US | ss | @OutlineVpnOfficial | 18'
       - '🇺🇸US | vmess | @v2Line | 9'
-      - '🇮🇪IE | trojan | @forwardv2ray | 13'
       - '🇮🇳IN | vmess | @eliya_chiter0 | 8'
   - name: FALLBACK
     type: fallback
@@ -169,7 +166,6 @@ proxy-groups:
       - '🇹🇼TW | vmess | @mftizi | 18'
       - '🇺🇸US | ss | @OutlineVpnOfficial | 18'
       - '🇺🇸US | vmess | @v2Line | 9'
-      - '🇮🇪IE | trojan | @forwardv2ray | 13'
       - '🇮🇳IN | vmess | @eliya_chiter0 | 8'
 rules:
   - IP-CIDR,127.0.0.1/32,DIRECT,no-resolve
