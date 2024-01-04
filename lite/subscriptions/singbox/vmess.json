@@ -108,7 +108,7 @@
                 "URL-TEST",
                 "🇫🇷FR | vmess | @v2ray_outlineir | 0",
                 "🇹🇼TW | vmess | @mftizi | 18",
-                "🇫🇷FR | vmess | @ConfigsHUB | 18",
+                "🏳️XX | vmess | @ConfigsHUB | 15",
                 "🇭🇰HK | vmess | @yaney_01 | 11",
                 "🇨🇦CA | vmess | @Hope_Net | 13",
                 "🇺🇸US | vmess | @v2Line | 7",
@@ -122,7 +122,7 @@
             "outbounds": [
                 "🇫🇷FR | vmess | @v2ray_outlineir | 0",
                 "🇹🇼TW | vmess | @mftizi | 18",
-                "🇫🇷FR | vmess | @ConfigsHUB | 18",
+                "🏳️XX | vmess | @ConfigsHUB | 15",
                 "🇭🇰HK | vmess | @yaney_01 | 11",
                 "🇨🇦CA | vmess | @Hope_Net | 13",
                 "🇺🇸US | vmess | @v2Line | 7",
@@ -184,11 +184,11 @@
             }
         },
         {
-            "tag": "🇫🇷FR | vmess | @ConfigsHUB | 18",
+            "tag": "🏳️XX | vmess | @ConfigsHUB | 15",
             "type": "vmess",
-            "server": "172.232.44.241",
-            "server_port": 8081,
-            "uuid": "13c67541-4a42-434d-b158-e4c5730b1d09",
+            "server": null,
+            "server_port": 0,
+            "uuid": null,
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
