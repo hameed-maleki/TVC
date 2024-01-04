@@ -149,12 +149,11 @@
                 "🇨🇦CA | vless | @sinabigo | 1",
                 "🇨🇦CA | vless | @SafeNet_Server | 10",
                 "🇨🇦CA | vless | @lrnbymaa | 11",
-                "🇨🇦CA | vless | @ConfigsHUB | 19",
                 "🇨🇷CR | vless | @proxystore11 | 14",
                 "🇸🇪SE | vless | @free1_vpn | 0",
                 "🏳️XX | vless | @fnet00 | 10",
                 "🇨🇦CA | vless | @polproxy | 41",
-                "🇨🇦CA | vless | @Outlinev2rayNG | 13",
+                "🇨🇦CA | vless | @Outlinev2rayNG | 14",
                 "🇫🇮FI | vless | @v2rayng_vpnrog | 5",
                 "🏳️XX | vless | @Capital_NET | 52",
                 "🇩🇪DE | vless | @Capoit | 1",
@@ -216,12 +215,11 @@
                 "🇨🇦CA | vless | @sinabigo | 1",
                 "🇨🇦CA | vless | @SafeNet_Server | 10",
                 "🇨🇦CA | vless | @lrnbymaa | 11",
-                "🇨🇦CA | vless | @ConfigsHUB | 19",
                 "🇨🇷CR | vless | @proxystore11 | 14",
                 "🇸🇪SE | vless | @free1_vpn | 0",
                 "🏳️XX | vless | @fnet00 | 10",
                 "🇨🇦CA | vless | @polproxy | 41",
-                "🇨🇦CA | vless | @Outlinev2rayNG | 13",
+                "🇨🇦CA | vless | @Outlinev2rayNG | 14",
                 "🇫🇮FI | vless | @v2rayng_vpnrog | 5",
                 "🏳️XX | vless | @Capital_NET | 52",
                 "🇩🇪DE | vless | @Capoit | 1",
@@ -1476,27 +1474,6 @@
             }
         },
         {
-            "tag": "🇨🇦CA | vless | @ConfigsHUB | 19",
-            "type": "vless",
-            "server": "sourceforge.net",
-            "server_port": 2095,
-            "uuid": "236169f9-f9ec-4ba8-a8e6-7031378fccf8",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/&@AstroVPN_official @AstroVPN_official @AstroVPN_official @AstroVPN_official @AstroVPN_official @AstroVPN_official @AstroVPN_official @AstroVPN_official",
-                "headers": {
-                    "Host": "sourceforge.net"
-                }
-            }
-        },
-        {
             "tag": "🇨🇷CR | vless | @proxystore11 | 14",
             "type": "vless",
             "server": "proxystore11.kodaksho.eu.org",
@@ -1624,7 +1601,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | vless | @Outlinev2rayNG | 13",
+            "tag": "🇨🇦CA | vless | @Outlinev2rayNG | 14",
             "type": "vless",
             "server": "www.unpkg.com",
             "server_port": 443,
