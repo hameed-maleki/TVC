@@ -1420,9 +1420,9 @@
         {
             "tag": "🇨🇦CA | vless | @SafeNet_Server | 9",
             "type": "vless",
-            "server": "Discord.GG",
-            "server_port": 8080,
-            "uuid": "j_jostar",
+            "server": "104.21.59.125",
+            "server_port": 80,
+            "uuid": "e1a928be-e289-4aef-b92e-4106fabdf42f",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1432,9 +1432,9 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/speed\/de",
+                "path": "\/",
                 "headers": {
-                    "Host": "Discord.GG"
+                    "Host": "104.21.59.125"
                 }
             }
         },
