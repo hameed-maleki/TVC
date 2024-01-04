@@ -114,7 +114,7 @@
                 "🇨🇦CA | vless | @V2pedia | 6",
                 "🇨🇷CR | vless | @ARv2ray | 14",
                 "🇸🇪SE | vless | @Lockey_vpn | 5",
-                "🇨🇷CR | vless | @lightning6 | 15",
+                "🇺🇸US | vless | @lightning6 | 15",
                 "🇨🇷CR | vless | @V2rayNGmat | 1",
                 "🇩🇪DE | vless | @CUSTOMVPNSERVER | 14",
                 "🇨🇷CR | vless | @DigiV2ray | 15",
@@ -154,16 +154,16 @@
                 "🇨🇦CA | vless | @v2ray_vpn_ir | 0",
                 "🇨🇷CR | vless | @proxystore11 | 14",
                 "🇭🇰HK | vmess | @yaney_01 | 11",
-                "🇨🇦CA | vmess | @Hope_Net | 14",
+                "🇮🇹IT | vmess | @Hope_Net | 14",
                 "🏳️XX | vless | @fnet00 | 10",
                 "🇨🇦CA | vless | @polproxy | 38",
                 "🇨🇦CA | vless | @Outlinev2rayNG | 14",
                 "🇫🇮FI | vless | @v2rayng_vpnrog | 4",
                 "🏳️XX | vless | @Capital_NET | 52",
                 "🇺🇸US | vmess | @v2Line | 8",
-                "🇩🇪DE | vless | @Capoit | 1",
+                "🇩🇪DE | vless | @Capoit | 3",
                 "🇸🇬SG | vless | @flyv2ray | 16",
-                "🇨🇦CA | vless | @forwardv2ray | 18",
+                "🇨🇦CA | vless | @forwardv2ray | 19",
                 "🇮🇷IR | vmess | @FAKEOFTVC | 2",
                 "🇨🇦CA | vless | @https_config_injector | 14",
                 "🇨🇦CA | vless | @mehrosaboran | 10",
@@ -189,7 +189,7 @@
                 "🇨🇦CA | vless | @V2pedia | 6",
                 "🇨🇷CR | vless | @ARv2ray | 14",
                 "🇸🇪SE | vless | @Lockey_vpn | 5",
-                "🇨🇷CR | vless | @lightning6 | 15",
+                "🇺🇸US | vless | @lightning6 | 15",
                 "🇨🇷CR | vless | @V2rayNGmat | 1",
                 "🇩🇪DE | vless | @CUSTOMVPNSERVER | 14",
                 "🇨🇷CR | vless | @DigiV2ray | 15",
@@ -229,16 +229,16 @@
                 "🇨🇦CA | vless | @v2ray_vpn_ir | 0",
                 "🇨🇷CR | vless | @proxystore11 | 14",
                 "🇭🇰HK | vmess | @yaney_01 | 11",
-                "🇨🇦CA | vmess | @Hope_Net | 14",
+                "🇮🇹IT | vmess | @Hope_Net | 14",
                 "🏳️XX | vless | @fnet00 | 10",
                 "🇨🇦CA | vless | @polproxy | 38",
                 "🇨🇦CA | vless | @Outlinev2rayNG | 14",
                 "🇫🇮FI | vless | @v2rayng_vpnrog | 4",
                 "🏳️XX | vless | @Capital_NET | 52",
                 "🇺🇸US | vmess | @v2Line | 8",
-                "🇩🇪DE | vless | @Capoit | 1",
+                "🇩🇪DE | vless | @Capoit | 3",
                 "🇸🇬SG | vless | @flyv2ray | 16",
-                "🇨🇦CA | vless | @forwardv2ray | 18",
+                "🇨🇦CA | vless | @forwardv2ray | 19",
                 "🇮🇷IR | vmess | @FAKEOFTVC | 2",
                 "🇨🇦CA | vless | @https_config_injector | 14",
                 "🇨🇦CA | vless | @mehrosaboran | 10",
@@ -518,7 +518,7 @@
             }
         },
         {
-            "tag": "🇨🇷CR | vless | @lightning6 | 15",
+            "tag": "🇺🇸US | vless | @lightning6 | 15",
             "type": "vless",
             "server": "LIGHTNING6-joinbede.liV2ray.xyz",
             "server_port": 2083,
@@ -1584,7 +1584,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | vmess | @Hope_Net | 14",
+            "tag": "🇮🇹IT | vmess | @Hope_Net | 14",
             "type": "vmess",
             "server": "us.he.01.nekocloud.cn",
             "server_port": 19043,
@@ -1795,7 +1795,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | vless | @Capoit | 1",
+            "tag": "🇩🇪DE | vless | @Capoit | 3",
             "type": "vless",
             "server": "78.46.225.217",
             "server_port": 443,
@@ -1862,11 +1862,11 @@
             }
         },
         {
-            "tag": "🇨🇦CA | vless | @forwardv2ray | 18",
+            "tag": "🇨🇦CA | vless | @forwardv2ray | 19",
             "type": "vless",
-            "server": "w3.sylarsun.eu.org",
+            "server": "104.21.7.235",
             "server_port": 443,
-            "uuid": "89420825-e589-4735-bee1-6dc636fca343",
+            "uuid": "273e76b7-3db5-4e0b-8dcc-16bef0262f87",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1876,7 +1876,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "w3.sylarsun.eu.org",
+                "server_name": "a.nufilter.fun",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -1885,11 +1885,11 @@
                 }
             },
             "transport": {
-                "type": "ws",
-                "path": "\/",
-                "headers": {
-                    "Host": "w3.sylarsun.eu.org"
-                }
+                "type": "grpc",
+                "service_name": "Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER",
+                "idle_timeout": "15s",
+                "ping_timeout": "15s",
+                "permit_without_stream": false
             }
         },
         {

@@ -110,7 +110,7 @@
                 "🇫🇷FR | vmess | @v2ray_outlineir | 0",
                 "🇹🇼TW | vmess | @mftizi | 18",
                 "🇭🇰HK | vmess | @yaney_01 | 11",
-                "🇨🇦CA | vmess | @Hope_Net | 14",
+                "🇮🇹IT | vmess | @Hope_Net | 14",
                 "🇺🇸US | vmess | @v2Line | 8",
                 "🇮🇷IR | vmess | @FAKEOFTVC | 2",
                 "🇨🇦CA | vmess | @eliya_chiter0 | 2"
@@ -124,7 +124,7 @@
                 "🇫🇷FR | vmess | @v2ray_outlineir | 0",
                 "🇹🇼TW | vmess | @mftizi | 18",
                 "🇭🇰HK | vmess | @yaney_01 | 11",
-                "🇨🇦CA | vmess | @Hope_Net | 14",
+                "🇮🇹IT | vmess | @Hope_Net | 14",
                 "🇺🇸US | vmess | @v2Line | 8",
                 "🇮🇷IR | vmess | @FAKEOFTVC | 2",
                 "🇨🇦CA | vmess | @eliya_chiter0 | 2"
@@ -235,7 +235,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | vmess | @Hope_Net | 14",
+            "tag": "🇮🇹IT | vmess | @Hope_Net | 14",
             "type": "vmess",
             "server": "us.he.01.nekocloud.cn",
             "server_port": 19043,
