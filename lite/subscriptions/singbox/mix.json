@@ -111,7 +111,6 @@
                 "🇨🇷CR | vless | @VPNCUSTOMIZE | 25",
                 "🇨🇷CR | vless | @ipV2Ray | 19",
                 "🇨🇦CA | vless | @melov2ray | 5",
-                "🇨🇦CA | vless | @V2pedia | 6",
                 "🇨🇷CR | vless | @ARv2ray | 14",
                 "🇸🇪SE | vless | @Lockey_vpn | 5",
                 "🇨🇷CR | vless | @lightning6 | 15",
@@ -152,7 +151,7 @@
                 "🇨🇦CA | vless | @lrnbymaa | 12",
                 "🇺🇸US | ss | @OutlineVpnOfficial | 17",
                 "🇨🇦CA | vless | @v2ray_vpn_ir | 0",
-                "🇩🇪DE | trojan | @ConfigsHUB | 5",
+                "🇨🇦CA | vmess | @ConfigsHUB | 11",
                 "🇨🇷CR | vless | @proxystore11 | 14",
                 "🇭🇰HK | vmess | @yaney_01 | 11",
                 "🏳️XX | vless | @fnet00 | 10",
@@ -162,7 +161,7 @@
                 "🇺🇸US | vmess | @v2Line | 8",
                 "🇩🇪DE | vless | @Capoit | 3",
                 "🇸🇬SG | vless | @flyv2ray | 16",
-                "🇷🇺RU | ss | @forwardv2ray | 19",
+                "🇫🇷FR | vmess | @forwardv2ray | 19",
                 "🇮🇷IR | vmess | @FAKEOFTVC | 2",
                 "🇨🇦CA | vless | @https_config_injector | 14",
                 "🇺🇸US | vless | @mehrosaboran | 9",
@@ -171,7 +170,6 @@
                 "🇫🇮FI | vless | @proxy_mtm | 10",
                 "🇨🇦CA | vless | @vpn_go67 | 23",
                 "🇩🇪DE | ss | @kingofilter | 18",
-                "🇨🇷CR | vless | @GozargahVPN | 14",
                 "🇬🇧GB | vless | @freeconfigv2 | 14",
                 "🇨🇦CA | vmess | @eliya_chiter0 | 2",
                 "🇺🇸US | vless | @FoXrayIran | 6",
@@ -187,7 +185,6 @@
                 "🇨🇷CR | vless | @VPNCUSTOMIZE | 25",
                 "🇨🇷CR | vless | @ipV2Ray | 19",
                 "🇨🇦CA | vless | @melov2ray | 5",
-                "🇨🇦CA | vless | @V2pedia | 6",
                 "🇨🇷CR | vless | @ARv2ray | 14",
                 "🇸🇪SE | vless | @Lockey_vpn | 5",
                 "🇨🇷CR | vless | @lightning6 | 15",
@@ -228,7 +225,7 @@
                 "🇨🇦CA | vless | @lrnbymaa | 12",
                 "🇺🇸US | ss | @OutlineVpnOfficial | 17",
                 "🇨🇦CA | vless | @v2ray_vpn_ir | 0",
-                "🇩🇪DE | trojan | @ConfigsHUB | 5",
+                "🇨🇦CA | vmess | @ConfigsHUB | 11",
                 "🇨🇷CR | vless | @proxystore11 | 14",
                 "🇭🇰HK | vmess | @yaney_01 | 11",
                 "🏳️XX | vless | @fnet00 | 10",
@@ -238,7 +235,7 @@
                 "🇺🇸US | vmess | @v2Line | 8",
                 "🇩🇪DE | vless | @Capoit | 3",
                 "🇸🇬SG | vless | @flyv2ray | 16",
-                "🇷🇺RU | ss | @forwardv2ray | 19",
+                "🇫🇷FR | vmess | @forwardv2ray | 19",
                 "🇮🇷IR | vmess | @FAKEOFTVC | 2",
                 "🇨🇦CA | vless | @https_config_injector | 14",
                 "🇺🇸US | vless | @mehrosaboran | 9",
@@ -247,7 +244,6 @@
                 "🇫🇮FI | vless | @proxy_mtm | 10",
                 "🇨🇦CA | vless | @vpn_go67 | 23",
                 "🇩🇪DE | ss | @kingofilter | 18",
-                "🇨🇷CR | vless | @GozargahVPN | 14",
                 "🇬🇧GB | vless | @freeconfigv2 | 14",
                 "🇨🇦CA | vmess | @eliya_chiter0 | 2",
                 "🇺🇸US | vless | @FoXrayIran | 6",
@@ -426,37 +422,6 @@
                 "headers": {
                     "Host": "De.Melov2ray.Shop"
                 }
-            }
-        },
-        {
-            "tag": "🇨🇦CA | vless | @V2pedia | 6",
-            "type": "vless",
-            "server": "cltechip-mci.argha-v2pedia.monster",
-            "server_port": 8443,
-            "uuid": "633388ac-9173-4a8c-ccec-47df77fb3c88",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "footlo.argha-v2pedia.monster",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia",
-                "idle_timeout": "15s",
-                "ping_timeout": "15s",
-                "permit_without_stream": false
             }
         },
         {
@@ -1534,11 +1499,16 @@
             }
         },
         {
-            "tag": "🇩🇪DE | trojan | @ConfigsHUB | 5",
-            "type": "trojan",
-            "server": "3.73.19.81",
-            "server_port": 22222,
-            "password": "telegram-id-privatevpns",
+            "tag": "🇨🇦CA | vmess | @ConfigsHUB | 11",
+            "type": "vmess",
+            "server": "104.21.91.107",
+            "server_port": 443,
+            "uuid": "9b78b7fe-47a3-41eb-d695-22692ac835a0",
+            "security": "auto",
+            "alter_id": 1,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
@@ -1546,12 +1516,19 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "trj.rollingnext.co.uk",
+                "server_name": "pzl.p237875155.buzz",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/pzl237875155",
+                "headers": {
+                    "Host": "pzl.p237875155.buzz"
                 }
             }
         },
@@ -1827,14 +1804,21 @@
             }
         },
         {
-            "tag": "🇷🇺RU | ss | @forwardv2ray | 19",
-            "type": "shadowsocks",
-            "server": "62.113.114.116",
-            "server_port": 42320,
-            "method": "chacha20-ietf-poly1305",
-            "password": "dhXDSrO3HnkhOZWxNOrvII",
-            "plugin": "",
-            "plugin_opts": ""
+            "tag": "🇫🇷FR | vmess | @forwardv2ray | 19",
+            "type": "vmess",
+            "server": "172.232.44.241",
+            "server_port": 8081,
+            "uuid": "13c67541-4a42-434d-b158-e4c5730b1d09",
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
         },
         {
             "tag": "🇮🇷IR | vmess | @FAKEOFTVC | 2",
@@ -2046,37 +2030,6 @@
             "password": "qGjmI8WQlF0tfhDbkLqGdN",
             "plugin": "",
             "plugin_opts": ""
-        },
-        {
-            "tag": "🇨🇷CR | vless | @GozargahVPN | 14",
-            "type": "vless",
-            "server": "GozargahVPN.vazagh.top",
-            "server_port": 443,
-            "uuid": "-GozargahVPN-",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "bademjoon.vazagh.top",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/Telegram:,@GozargahVPN,@GozargahVPN,@GozargahVPN,@GozargahVPN,@GozargahVPN,@GozargahVPN,@GozargahVPN,@GozargahVPN,@GozargahVPN,@GozargahVPN,@GozargahVPN,@GozargahVPN,@GozargahVPN,@GozargahVPN,@GozargahVPN",
-                "headers": {
-                    "Host": "bademjoon.vazagh.top"
-                }
-            }
         },
         {
             "tag": "🇬🇧GB | vless | @freeconfigv2 | 14",
