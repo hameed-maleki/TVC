@@ -110,9 +110,9 @@
                 "🇹🇼TW | vmess | @mftizi | 18",
                 "🇨🇦CA | vmess | @oneclickvpnkeys | 8",
                 "🇨🇦CA | vmess | @v2ray1_ng | 4",
-                "🏳️XX | vmess | @ConfigsHUB | 18",
                 "🇭🇰HK | vmess | @yaney_01 | 10",
                 "🇺🇸US | vmess | @v2Line | 8",
+                "🏳️XX | vmess | @forwardv2ray | 18",
                 "🇮🇷IR | vmess | @FAKEOFTVC | 1",
                 "🇮🇳IN | vmess | @eliya_chiter0 | 8"
             ]
@@ -125,9 +125,9 @@
                 "🇹🇼TW | vmess | @mftizi | 18",
                 "🇨🇦CA | vmess | @oneclickvpnkeys | 8",
                 "🇨🇦CA | vmess | @v2ray1_ng | 4",
-                "🏳️XX | vmess | @ConfigsHUB | 18",
                 "🇭🇰HK | vmess | @yaney_01 | 10",
                 "🇺🇸US | vmess | @v2Line | 8",
+                "🏳️XX | vmess | @forwardv2ray | 18",
                 "🇮🇷IR | vmess | @FAKEOFTVC | 1",
                 "🇮🇳IN | vmess | @eliya_chiter0 | 8"
             ],
@@ -261,23 +261,6 @@
             }
         },
         {
-            "tag": "🏳️XX | vmess | @ConfigsHUB | 18",
-            "type": "vmess",
-            "server": null,
-            "server_port": 0,
-            "uuid": null,
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            }
-        },
-        {
             "tag": "🇭🇰HK | vmess | @yaney_01 | 10",
             "type": "vmess",
             "server": "38.47.204.198",
@@ -326,6 +309,23 @@
                 "headers": {
                     "Host": ""
                 }
+            }
+        },
+        {
+            "tag": "🏳️XX | vmess | @forwardv2ray | 18",
+            "type": "vmess",
+            "server": null,
+            "server_port": 0,
+            "uuid": null,
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
             }
         },
         {
