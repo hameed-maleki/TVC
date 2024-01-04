@@ -171,7 +171,7 @@
                 "🇩🇪DE | vless | @Capoit | 1",
                 "🏳️XX | vless | @FreakConfig | 11",
                 "🇨🇦CA | vless | @flyv2ray | 19",
-                "🏳️XX | vmess | @forwardv2ray | 18",
+                "🇭🇰HK | vmess | @forwardv2ray | 18",
                 "🇮🇷IR | vmess | @FAKEOFTVC | 1",
                 "🇨🇦CA | vless | @https_config_injector | 14",
                 "🇨🇦CA | vless | @mehrosaboran | 8",
@@ -255,7 +255,7 @@
                 "🇩🇪DE | vless | @Capoit | 1",
                 "🏳️XX | vless | @FreakConfig | 11",
                 "🇨🇦CA | vless | @flyv2ray | 19",
-                "🏳️XX | vmess | @forwardv2ray | 18",
+                "🇭🇰HK | vmess | @forwardv2ray | 18",
                 "🇮🇷IR | vmess | @FAKEOFTVC | 1",
                 "🇨🇦CA | vless | @https_config_injector | 14",
                 "🇨🇦CA | vless | @mehrosaboran | 8",
@@ -2108,11 +2108,11 @@
             }
         },
         {
-            "tag": "🏳️XX | vmess | @forwardv2ray | 18",
+            "tag": "🇭🇰HK | vmess | @forwardv2ray | 18",
             "type": "vmess",
-            "server": "mci.mosi.mosipro.ml",
-            "server_port": 443,
-            "uuid": "05FEAF20-9A66-4E2E-84FC-41E9AE64B037",
+            "server": "218.255.149.45",
+            "server_port": 80,
+            "uuid": "4a75c3ba-f2e9-11ed-bf1b-f23c91369f2d",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
@@ -2123,21 +2123,11 @@
                 "protocol": "smux",
                 "max_streams": 32
             },
-            "tls": {
-                "enabled": true,
-                "server_name": "Dusseldorf.kotick.site",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
             "transport": {
                 "type": "ws",
-                "path": "\/speedtest",
+                "path": "\/",
                 "headers": {
-                    "Host": "Dusseldorf.kotick.site"
+                    "Host": ""
                 }
             }
         },
