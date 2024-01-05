@@ -144,7 +144,6 @@
                 "🇨🇦CA | vless | @sinabigo | 1",
                 "🇨🇦CA | vless | @lrnbymaa | 12",
                 "🇨🇦CA | vless | @v2ray_vpn_ir | 0",
-                "🇵🇱PL | vless | @ConfigsHUB | 19",
                 "🇨🇷CR | vless | @proxystore11 | 14",
                 "🏳️XX | vless | @fnet00 | 10",
                 "🇨🇦CA | vless | @polproxy | 38",
@@ -204,7 +203,6 @@
                 "🇨🇦CA | vless | @sinabigo | 1",
                 "🇨🇦CA | vless | @lrnbymaa | 12",
                 "🇨🇦CA | vless | @v2ray_vpn_ir | 0",
-                "🇵🇱PL | vless | @ConfigsHUB | 19",
                 "🇨🇷CR | vless | @proxystore11 | 14",
                 "🏳️XX | vless | @fnet00 | 10",
                 "🇨🇦CA | vless | @polproxy | 38",
@@ -1338,35 +1336,6 @@
                 "path": "\/@BlueberryNetWork | @BlueberryNetWork | @BlueberryNetWork | @BlueberryNetWork | @BlueberryNetWork",
                 "headers": {
                     "Host": "uk.blueberrynetwork.icu"
-                }
-            }
-        },
-        {
-            "tag": "🇵🇱PL | vless | @ConfigsHUB | 19",
-            "type": "vless",
-            "server": "maskunlimit2.api-tel.online",
-            "server_port": 42000,
-            "uuid": "19918dc0-bd0c-4c31-b5ef-f675638f9d97",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "zula.ir",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "kCgAjeO__VBAGD0B-l9Tt0xaOeV6EIXn8NFCPErhr1E",
-                    "short_id": "41a6ddeceb"
                 }
             }
         },
