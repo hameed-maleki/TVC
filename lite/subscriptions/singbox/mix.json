@@ -156,13 +156,14 @@
                 "🇨🇦CA | vless | @v2ray_vpn_ir | 0",
                 "🇨🇷CR | vless | @proxystore11 | 14",
                 "🇨🇳CN | vmess | @yaney_01 | 10",
-                "🇺🇸US | vmess | @Hope_Net | 11",
+                "🇰🇷KR | vmess | @Hope_Net | 11",
                 "🏳️XX | vless | @fnet00 | 10",
                 "🇨🇦CA | vless | @polproxy | 35",
                 "🏳️XX | vless | @Capital_NET | 52",
                 "🇺🇸US | vmess | @v2Line | 7",
                 "🇨🇷CR | vless | @Capoit | 2",
                 "🇨🇦CA | vless | @flyv2ray | 14",
+                "🇨🇦CA | vless | @forwardv2ray | 17",
                 "🇺🇸US | tuic | @FAKEOFTVC | 1",
                 "🇨🇦CA | vless | @https_config_injector | 15",
                 "🇨🇦CA | vless | @mehrosaboran | 11",
@@ -230,13 +231,14 @@
                 "🇨🇦CA | vless | @v2ray_vpn_ir | 0",
                 "🇨🇷CR | vless | @proxystore11 | 14",
                 "🇨🇳CN | vmess | @yaney_01 | 10",
-                "🇺🇸US | vmess | @Hope_Net | 11",
+                "🇰🇷KR | vmess | @Hope_Net | 11",
                 "🏳️XX | vless | @fnet00 | 10",
                 "🇨🇦CA | vless | @polproxy | 35",
                 "🏳️XX | vless | @Capital_NET | 52",
                 "🇺🇸US | vmess | @v2Line | 7",
                 "🇨🇷CR | vless | @Capoit | 2",
                 "🇨🇦CA | vless | @flyv2ray | 14",
+                "🇨🇦CA | vless | @forwardv2ray | 17",
                 "🇺🇸US | tuic | @FAKEOFTVC | 1",
                 "🇨🇦CA | vless | @https_config_injector | 15",
                 "🇨🇦CA | vless | @mehrosaboran | 11",
@@ -1638,7 +1640,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | vmess | @Hope_Net | 11",
+            "tag": "🇰🇷KR | vmess | @Hope_Net | 11",
             "type": "vmess",
             "server": "us.he.07.nekocloud.cn",
             "server_port": 10002,
@@ -1841,6 +1843,37 @@
                 "headers": {
                     "Host": "De.Melov2ray.Shop"
                 }
+            }
+        },
+        {
+            "tag": "🇨🇦CA | vless | @forwardv2ray | 17",
+            "type": "vless",
+            "server": "cdn.4iran.cfd",
+            "server_port": 2087,
+            "uuid": "5e219a01-a800-4f5f-a86c-82fa0f948693",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "cdn.4iran.cfd",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "in",
+                "idle_timeout": "15s",
+                "ping_timeout": "15s",
+                "permit_without_stream": false
             }
         },
         {
