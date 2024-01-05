@@ -125,7 +125,7 @@
                 "🇩🇪DE | vless | @v2logy | 18",
                 "🇨🇦CA | vless | @V2rayCollector | 1",
                 "🇨🇷CR | vless | @azadi_az_inja_migzare | 15",
-                "🇨🇷CR | vless | @V2rayNGn | 24",
+                "🇺🇸US | vless | @V2rayNGn | 24",
                 "🇸🇪SE | vless | @prrofile_purple | 177",
                 "🇨🇦CA | vless | @customv2ray | 16",
                 "🇨🇦CA | vless | @UnlimitedDev | 7",
@@ -155,7 +155,6 @@
                 "🏳️XX | vless | @Capoit | 3",
                 "🇺🇸US | vless | @FreakConfig | 9",
                 "🇮🇷IR | vless | @flyv2ray | 14",
-                "🇨🇦CA | vless | @forwardv2ray | 19",
                 "🇨🇦CA | vless | @https_config_injector | 15",
                 "🇺🇸US | vless | @mehrosaboran | 13",
                 "🇸🇪SE | vless | @kiava | 14",
@@ -189,7 +188,7 @@
                 "🇩🇪DE | vless | @v2logy | 18",
                 "🇨🇦CA | vless | @V2rayCollector | 1",
                 "🇨🇷CR | vless | @azadi_az_inja_migzare | 15",
-                "🇨🇷CR | vless | @V2rayNGn | 24",
+                "🇺🇸US | vless | @V2rayNGn | 24",
                 "🇸🇪SE | vless | @prrofile_purple | 177",
                 "🇨🇦CA | vless | @customv2ray | 16",
                 "🇨🇦CA | vless | @UnlimitedDev | 7",
@@ -219,7 +218,6 @@
                 "🏳️XX | vless | @Capoit | 3",
                 "🇺🇸US | vless | @FreakConfig | 9",
                 "🇮🇷IR | vless | @flyv2ray | 14",
-                "🇨🇦CA | vless | @forwardv2ray | 19",
                 "🇨🇦CA | vless | @https_config_injector | 15",
                 "🇺🇸US | vless | @mehrosaboran | 13",
                 "🇸🇪SE | vless | @kiava | 14",
@@ -830,7 +828,7 @@
             }
         },
         {
-            "tag": "🇨🇷CR | vless | @V2rayNGn | 24",
+            "tag": "🇺🇸US | vless | @V2rayNGn | 24",
             "type": "vless",
             "server": "all.vpncustomize.cam",
             "server_port": 443,
@@ -1674,27 +1672,6 @@
                 "path": "\/opeta",
                 "headers": {
                     "Host": "minecraft.opeta.cfd"
-                }
-            }
-        },
-        {
-            "tag": "🇨🇦CA | vless | @forwardv2ray | 19",
-            "type": "vless",
-            "server": "tehran.fastgozar.shop",
-            "server_port": 8080,
-            "uuid": "2a24472b-fd15-4566-891e-af49096f7ce6",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/",
-                "headers": {
-                    "Host": "tehran.fastgozar.shop"
                 }
             }
         },
