@@ -140,10 +140,11 @@
                 "🇨🇦CA | vless | @MsV2ray | 9",
                 "🇨🇦CA | vless | @v2ray1_ng | 3",
                 "🏳️XX | vless | @MTConfig | 21",
-                "🇨🇳CN | vless | @V2RayTz | 19",
+                "🇨🇷CR | vless | @V2RayTz | 19",
                 "🇨🇦CA | vless | @sinabigo | 1",
                 "🇨🇦CA | vless | @lrnbymaa | 12",
                 "🇨🇦CA | vless | @v2ray_vpn_ir | 0",
+                "🇵🇱PL | vless | @ConfigsHUB | 19",
                 "🇨🇷CR | vless | @proxystore11 | 14",
                 "🏳️XX | vless | @fnet00 | 10",
                 "🇨🇦CA | vless | @polproxy | 38",
@@ -199,10 +200,11 @@
                 "🇨🇦CA | vless | @MsV2ray | 9",
                 "🇨🇦CA | vless | @v2ray1_ng | 3",
                 "🏳️XX | vless | @MTConfig | 21",
-                "🇨🇳CN | vless | @V2RayTz | 19",
+                "🇨🇷CR | vless | @V2RayTz | 19",
                 "🇨🇦CA | vless | @sinabigo | 1",
                 "🇨🇦CA | vless | @lrnbymaa | 12",
                 "🇨🇦CA | vless | @v2ray_vpn_ir | 0",
+                "🇵🇱PL | vless | @ConfigsHUB | 19",
                 "🇨🇷CR | vless | @proxystore11 | 14",
                 "🏳️XX | vless | @fnet00 | 10",
                 "🇨🇦CA | vless | @polproxy | 38",
@@ -1236,11 +1238,11 @@
             }
         },
         {
-            "tag": "🇨🇳CN | vless | @V2RayTz | 19",
+            "tag": "🇨🇷CR | vless | @V2RayTz | 19",
             "type": "vless",
-            "server": "1-Join.V2RayTz.sbs",
-            "server_port": 2083,
-            "uuid": "d4bb4266-196b-4e7a-b725-9a8e13d782ef",
+            "server": "190.93.247.155",
+            "server_port": 2087,
+            "uuid": "292064a5-40aa-43cc-8d62-6cb1e94d15ca",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1250,7 +1252,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "lightning6.liV2ray5.cfd",
+                "server_name": "SHHPROXY.snappfoodd.site",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -1259,11 +1261,11 @@
                 }
             },
             "transport": {
-                "type": "grpc",
-                "service_name": "@LIGHTNING6",
-                "idle_timeout": "15s",
-                "ping_timeout": "15s",
-                "permit_without_stream": false
+                "type": "ws",
+                "path": "\/",
+                "headers": {
+                    "Host": "SHHPROXY.snappfoodd.site"
+                }
             }
         },
         {
@@ -1336,6 +1338,35 @@
                 "path": "\/@BlueberryNetWork | @BlueberryNetWork | @BlueberryNetWork | @BlueberryNetWork | @BlueberryNetWork",
                 "headers": {
                     "Host": "uk.blueberrynetwork.icu"
+                }
+            }
+        },
+        {
+            "tag": "🇵🇱PL | vless | @ConfigsHUB | 19",
+            "type": "vless",
+            "server": "maskunlimit2.api-tel.online",
+            "server_port": 42000,
+            "uuid": "19918dc0-bd0c-4c31-b5ef-f675638f9d97",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "zula.ir",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "kCgAjeO__VBAGD0B-l9Tt0xaOeV6EIXn8NFCPErhr1E",
+                    "short_id": "41a6ddeceb"
                 }
             }
         },
