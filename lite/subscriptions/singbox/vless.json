@@ -107,13 +107,14 @@
             "outbounds": [
                 "URL-TEST",
                 "🇨🇷CR | vless | @XsV2ray | 13",
-                "🇬🇧GB | vless | @VlessConfig | 15",
+                "🇫🇷FR | vless | @VlessConfig | 18",
                 "🇨🇷CR | vless | @VPNCUSTOMIZE | 25",
                 "🇨🇷CR | vless | @ipV2Ray | 19",
                 "🇨🇦CA | vless | @melov2ray | 5",
                 "🇨🇷CR | vless | @ARv2ray | 14",
+                "🇨🇷CR | vless | @shh_proxy | 20",
                 "🇸🇪SE | vless | @Lockey_vpn | 5",
-                "🇺🇸US | vless | @lightning6 | 15",
+                "🇨🇷CR | vless | @lightning6 | 13",
                 "🇨🇷CR | vless | @V2rayNGmat | 1",
                 "🇩🇪DE | vless | @CUSTOMVPNSERVER | 14",
                 "🇨🇷CR | vless | @DigiV2ray | 15",
@@ -123,6 +124,7 @@
                 "🇳🇱NL | vless | @servermomo | 14",
                 "🇮🇷IR | vless | @V2rayCollector | 2",
                 "🇨🇷CR | vless | @azadi_az_inja_migzare | 13",
+                "🏳️XX | vless | @V2rayCollectorDonate | 19",
                 "🇨🇷CR | vless | @V2rayNGn | 23",
                 "🇸🇪SE | vless | @prrofile_purple | 177",
                 "🇨🇦CA | vless | @customv2ray | 16",
@@ -143,7 +145,7 @@
                 "🇨🇦CA | vless | @sinabigo | 1",
                 "🇨🇦CA | vless | @lrnbymaa | 12",
                 "🇨🇦CA | vless | @v2ray_vpn_ir | 0",
-                "🇸🇪SE | vless | @ConfigsHUB | 19",
+                "🇨🇦CA | vless | @ConfigsHUB | 19",
                 "🇨🇷CR | vless | @proxystore11 | 14",
                 "🏳️XX | vless | @fnet00 | 10",
                 "🇨🇦CA | vless | @polproxy | 38",
@@ -152,7 +154,6 @@
                 "🏳️XX | vless | @Capital_NET | 52",
                 "🇩🇪DE | vless | @Capoit | 3",
                 "🇸🇬SG | vless | @flyv2ray | 16",
-                "🇸🇪SE | vless | @forwardv2ray | 18",
                 "🇨🇦CA | vless | @https_config_injector | 14",
                 "🇺🇸US | vless | @mehrosaboran | 9",
                 "🇸🇪SE | vless | @kiava | 14",
@@ -168,13 +169,14 @@
             "type": "urltest",
             "outbounds": [
                 "🇨🇷CR | vless | @XsV2ray | 13",
-                "🇬🇧GB | vless | @VlessConfig | 15",
+                "🇫🇷FR | vless | @VlessConfig | 18",
                 "🇨🇷CR | vless | @VPNCUSTOMIZE | 25",
                 "🇨🇷CR | vless | @ipV2Ray | 19",
                 "🇨🇦CA | vless | @melov2ray | 5",
                 "🇨🇷CR | vless | @ARv2ray | 14",
+                "🇨🇷CR | vless | @shh_proxy | 20",
                 "🇸🇪SE | vless | @Lockey_vpn | 5",
-                "🇺🇸US | vless | @lightning6 | 15",
+                "🇨🇷CR | vless | @lightning6 | 13",
                 "🇨🇷CR | vless | @V2rayNGmat | 1",
                 "🇩🇪DE | vless | @CUSTOMVPNSERVER | 14",
                 "🇨🇷CR | vless | @DigiV2ray | 15",
@@ -184,6 +186,7 @@
                 "🇳🇱NL | vless | @servermomo | 14",
                 "🇮🇷IR | vless | @V2rayCollector | 2",
                 "🇨🇷CR | vless | @azadi_az_inja_migzare | 13",
+                "🏳️XX | vless | @V2rayCollectorDonate | 19",
                 "🇨🇷CR | vless | @V2rayNGn | 23",
                 "🇸🇪SE | vless | @prrofile_purple | 177",
                 "🇨🇦CA | vless | @customv2ray | 16",
@@ -204,7 +207,7 @@
                 "🇨🇦CA | vless | @sinabigo | 1",
                 "🇨🇦CA | vless | @lrnbymaa | 12",
                 "🇨🇦CA | vless | @v2ray_vpn_ir | 0",
-                "🇸🇪SE | vless | @ConfigsHUB | 19",
+                "🇨🇦CA | vless | @ConfigsHUB | 19",
                 "🇨🇷CR | vless | @proxystore11 | 14",
                 "🏳️XX | vless | @fnet00 | 10",
                 "🇨🇦CA | vless | @polproxy | 38",
@@ -213,7 +216,6 @@
                 "🏳️XX | vless | @Capital_NET | 52",
                 "🇩🇪DE | vless | @Capoit | 3",
                 "🇸🇬SG | vless | @flyv2ray | 16",
-                "🇸🇪SE | vless | @forwardv2ray | 18",
                 "🇨🇦CA | vless | @https_config_injector | 14",
                 "🇺🇸US | vless | @mehrosaboran | 9",
                 "🇸🇪SE | vless | @kiava | 14",
@@ -275,9 +277,9 @@
             }
         },
         {
-            "tag": "🇬🇧GB | vless | @VlessConfig | 15",
+            "tag": "🇫🇷FR | vless | @VlessConfig | 18",
             "type": "vless",
-            "server": "13.43.25.83",
+            "server": "13.38.183.149",
             "server_port": 22222,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -430,6 +432,37 @@
             }
         },
         {
+            "tag": "🇨🇷CR | vless | @shh_proxy | 20",
+            "type": "vless",
+            "server": "V2ray.motorcycles",
+            "server_port": 2087,
+            "uuid": "8c33df6a-fb1f-40dd-aeb0-6ab6b93de7a0",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "SHHPROXY.snappfoodd.site",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/",
+                "headers": {
+                    "Host": "SHHPROXY.snappfoodd.site"
+                }
+            }
+        },
+        {
             "tag": "🇸🇪SE | vless | @Lockey_vpn | 5",
             "type": "vless",
             "server": "16.16.107.118",
@@ -459,11 +492,11 @@
             }
         },
         {
-            "tag": "🇺🇸US | vless | @lightning6 | 15",
+            "tag": "🇨🇷CR | vless | @lightning6 | 13",
             "type": "vless",
             "server": "LIGHTNING6-joinbede.liV2ray.xyz",
             "server_port": 2083,
-            "uuid": "211b0950-998d-4620-f9ee-289b35e3fa31",
+            "uuid": "acddba4d-a449-4ba9-c24d-f66beed4074b",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -473,7 +506,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "lightning6.liV2ray1.top",
+                "server_name": "lightning6.liV2ray3.cfd",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -765,6 +798,37 @@
                 "path": "\/Telegram:,@GozargahVPN,@GozargahVPN,@GozargahVPN,@GozargahVPN,@GozargahVPN,@GozargahVPN,@GozargahVPN,@GozargahVPN,@GozargahVPN,@GozargahVPN,@GozargahVPN,@GozargahVPN,@GozargahVPN,@GozargahVPN,@GozargahVPN",
                 "headers": {
                     "Host": "cocacola.vazagh.top"
+                }
+            }
+        },
+        {
+            "tag": "🏳️XX | vless | @V2rayCollectorDonate | 19",
+            "type": "vless",
+            "server": "cf-wkrs-pages-vless-aoy.pages.dev",
+            "server_port": 2053,
+            "uuid": "39e7cfda-c060-4731-90da-f4f9a027327c",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "cdn.monfared.xyz",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/svdvgffdy",
+                "headers": {
+                    "Host": "cdn.monfared.xyz"
                 }
             }
         },
@@ -1306,31 +1370,23 @@
             }
         },
         {
-            "tag": "🇸🇪SE | vless | @ConfigsHUB | 19",
+            "tag": "🇨🇦CA | vless | @ConfigsHUB | 19",
             "type": "vless",
-            "server": "16.16.253.59",
-            "server_port": 443,
-            "uuid": "2c59ff33-916d-459b-a4c0-8b7432c4c3bb",
-            "flow": "xtls-rprx-vision",
+            "server": "bia-to1.unlimiteddev.shop",
+            "server_port": 80,
+            "uuid": "bf2365b6-75ca-4df2-967f-65e2e7a342c2",
+            "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
             },
-            "tls": {
-                "enabled": true,
-                "server_name": "lolstatic-a.akamaihd.net",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "epYeD9A7qEJL4zfdb2YgYK7q7RrX_CEYj_xP5arOIkU",
-                    "short_id": "87bf"
+            "transport": {
+                "type": "ws",
+                "path": "\/",
+                "headers": {
+                    "Host": "bia-to1.unlimiteddev.shop"
                 }
             }
         },
@@ -1583,35 +1639,6 @@
                 "idle_timeout": "15s",
                 "ping_timeout": "15s",
                 "permit_without_stream": false
-            }
-        },
-        {
-            "tag": "🇸🇪SE | vless | @forwardv2ray | 18",
-            "type": "vless",
-            "server": "16.16.139.172",
-            "server_port": 443,
-            "uuid": "2c59ff33-916d-459b-a4c0-8b7432c4c3bb",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "lolstatic-a.akamaihd.net",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "hbifFNdBWbBy7IA0zWLaCsDbg1K7gi_iTGe1AzO94iE",
-                    "short_id": "3344b39b"
-                }
             }
         },
         {
