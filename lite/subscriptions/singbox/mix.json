@@ -157,7 +157,7 @@
                 "🇨🇦CA | vless | @v2ray_vpn_ir | 0",
                 "🇨🇷CR | vless | @proxystore11 | 14",
                 "🇨🇳CN | vmess | @yaney_01 | 10",
-                "🇨🇦CA | vmess | @Hope_Net | 10",
+                "🇰🇿KZ | vmess | @Hope_Net | 9",
                 "🏳️XX | vless | @fnet00 | 10",
                 "🇨🇦CA | vless | @polproxy | 38",
                 "🏳️XX | vless | @Capital_NET | 52",
@@ -165,13 +165,14 @@
                 "🏳️XX | vless | @Capoit | 3",
                 "🇺🇸US | vless | @FreakConfig | 9",
                 "🇮🇷IR | vless | @flyv2ray | 14",
-                "🇺🇸US | tuic | @FAKEOFTVC | 2",
+                "🇺🇸US | vless | @forwardv2ray | 19",
+                "🇺🇸US | tuic | @FAKEOFTVC | 3",
                 "🇨🇦CA | vless | @https_config_injector | 15",
                 "🇺🇸US | vless | @mehrosaboran | 14",
                 "🇸🇪SE | vless | @kiava | 14",
                 "🏳️XX | vless | @nofiltering2 | 12",
                 "🇨🇦CA | vless | @vpn_go67 | 23",
-                "🇨🇦CA | vless | @kingofilter | 17",
+                "🇺🇸US | vless | @kingofilter | 17",
                 "🇬🇧GB | vless | @freeconfigv2 | 14",
                 "🇫🇷FR | vmess | @eliya_chiter0 | 1",
                 "🇺🇸US | vless | @FoXrayIran | 6",
@@ -233,7 +234,7 @@
                 "🇨🇦CA | vless | @v2ray_vpn_ir | 0",
                 "🇨🇷CR | vless | @proxystore11 | 14",
                 "🇨🇳CN | vmess | @yaney_01 | 10",
-                "🇨🇦CA | vmess | @Hope_Net | 10",
+                "🇰🇿KZ | vmess | @Hope_Net | 9",
                 "🏳️XX | vless | @fnet00 | 10",
                 "🇨🇦CA | vless | @polproxy | 38",
                 "🏳️XX | vless | @Capital_NET | 52",
@@ -241,13 +242,14 @@
                 "🏳️XX | vless | @Capoit | 3",
                 "🇺🇸US | vless | @FreakConfig | 9",
                 "🇮🇷IR | vless | @flyv2ray | 14",
-                "🇺🇸US | tuic | @FAKEOFTVC | 2",
+                "🇺🇸US | vless | @forwardv2ray | 19",
+                "🇺🇸US | tuic | @FAKEOFTVC | 3",
                 "🇨🇦CA | vless | @https_config_injector | 15",
                 "🇺🇸US | vless | @mehrosaboran | 14",
                 "🇸🇪SE | vless | @kiava | 14",
                 "🏳️XX | vless | @nofiltering2 | 12",
                 "🇨🇦CA | vless | @vpn_go67 | 23",
-                "🇨🇦CA | vless | @kingofilter | 17",
+                "🇺🇸US | vless | @kingofilter | 17",
                 "🇬🇧GB | vless | @freeconfigv2 | 14",
                 "🇫🇷FR | vmess | @eliya_chiter0 | 1",
                 "🇺🇸US | vless | @FoXrayIran | 6",
@@ -1687,11 +1689,11 @@
             }
         },
         {
-            "tag": "🇨🇦CA | vmess | @Hope_Net | 10",
+            "tag": "🇰🇿KZ | vmess | @Hope_Net | 9",
             "type": "vmess",
-            "server": "104.27.102.105",
-            "server_port": 8080,
-            "uuid": "Telegram-V2ray_alpha",
+            "server": "kz-v2ray.ipracevpn.com",
+            "server_port": 8443,
+            "uuid": "48b10b02-2c60-4323-bc65-a11b15144745",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
@@ -1702,11 +1704,14 @@
                 "protocol": "smux",
                 "max_streams": 32
             },
-            "transport": {
-                "type": "ws",
-                "path": "\/",
-                "headers": {
-                    "Host": ""
+            "tls": {
+                "enabled": true,
+                "server_name": "",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
                 }
             }
         },
@@ -1934,7 +1939,38 @@
             }
         },
         {
-            "tag": "🇺🇸US | tuic | @FAKEOFTVC | 2",
+            "tag": "🇺🇸US | vless | @forwardv2ray | 19",
+            "type": "vless",
+            "server": "all.vpncustomize.cam",
+            "server_port": 443,
+            "uuid": "d92a8cd4-185c-42ed-8bde-5e8d69a852e1",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "usa1-KingSpeedV2rayng.VPNCUSTOMIZE.tech",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "‌@VPNCUSTOMIZE",
+                "idle_timeout": "15s",
+                "ping_timeout": "15s",
+                "permit_without_stream": false
+            }
+        },
+        {
+            "tag": "🇺🇸US | tuic | @FAKEOFTVC | 3",
             "type": "tuic",
             "server": "108.181.22.155",
             "server_port": 12255,
@@ -2095,7 +2131,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | vless | @kingofilter | 17",
+            "tag": "🇺🇸US | vless | @kingofilter | 17",
             "type": "vless",
             "server": "upload.ir",
             "server_port": 80,
