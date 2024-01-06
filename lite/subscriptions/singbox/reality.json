@@ -117,6 +117,7 @@
                 "🏳️XX | vless | @fnet00 | 10",
                 "🇸🇪SE | vless | @Outlinev2rayNG | 14",
                 "🏳️XX | vless | @Capital_NET | 52",
+                "🇩🇪DE | vless | @forwardv2ray | 18",
                 "🇸🇪SE | vless | @kiava | 15",
                 "🇫🇮FI | vless | @proxy_mtm | 4",
                 "🇨🇦CA | vless | @vpn_go67 | 23",
@@ -138,6 +139,7 @@
                 "🏳️XX | vless | @fnet00 | 10",
                 "🇸🇪SE | vless | @Outlinev2rayNG | 14",
                 "🏳️XX | vless | @Capital_NET | 52",
+                "🇩🇪DE | vless | @forwardv2ray | 18",
                 "🇸🇪SE | vless | @kiava | 15",
                 "🇫🇮FI | vless | @proxy_mtm | 4",
                 "🇨🇦CA | vless | @vpn_go67 | 23",
@@ -514,6 +516,35 @@
                     "enabled": true,
                     "public_key": "90WvSEDjTWdVj1U5JPXphB6VZ4ojR42tZN7PuEeRqXM",
                     "short_id": "dc838e556e8a86bd"
+                }
+            }
+        },
+        {
+            "tag": "🇩🇪DE | vless | @forwardv2ray | 18",
+            "type": "vless",
+            "server": "tcp.zedmode.shop",
+            "server_port": 25365,
+            "uuid": "3f65488e-f192-41b5-8e55-1e22e65c7222",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "www.discord.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "S0hhssqUjFwGQ8RV00ldXU1d-K7GJPXmFNMlD9uXbA0",
+                    "short_id": "1fabc99d"
                 }
             }
         },
