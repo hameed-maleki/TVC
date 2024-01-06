@@ -108,7 +108,7 @@
                 "URL-TEST",
                 "🇺🇸US | vless | @EliV2ray | 13",
                 "🇨🇦CA | vless | @v2_team | 18",
-                "🇨🇷CR | vless | @XsV2ray | 13",
+                "🇺🇸US | vless | @XsV2ray | 13",
                 "🇫🇷FR | vless | @VlessConfig | 15",
                 "🏳️XX | vless | @ipV2Ray | 19",
                 "🇨🇦CA | vless | @melov2ray | 5",
@@ -116,7 +116,7 @@
                 "🇩🇪DE | vless | @ARv2ray | 14",
                 "🇸🇪SE | vless | @Lockey_vpn | 5",
                 "🇨🇦CA | vless | @free_v2rayyy | 8",
-                "🇺🇸US | vless | @lightning6 | 14",
+                "🇨🇷CR | vless | @lightning6 | 14",
                 "🇺🇸US | vless | @V2rayNGmat | 1",
                 "🇩🇪DE | vless | @CUSTOMVPNSERVER | 14",
                 "🇨🇷CR | vless | @DigiV2ray | 15",
@@ -125,6 +125,7 @@
                 "🇩🇪DE | vless | @v2logy | 18",
                 "🇨🇦CA | vless | @V2rayCollector | 1",
                 "🇨🇷CR | vless | @azadi_az_inja_migzare | 15",
+                "🇨🇦CA | vless | @V2rayCollectorDonate | 19",
                 "🇺🇸US | vless | @V2rayNGn | 24",
                 "🇸🇪SE | vless | @prrofile_purple | 177",
                 "🇨🇦CA | vless | @customv2ray | 16",
@@ -142,7 +143,7 @@
                 "🇨🇦CA | vless | @MsV2ray | 9",
                 "🇨🇦CA | vless | @v2ray1_ng | 1",
                 "🏳️XX | vless | @MTConfig | 21",
-                "🇩🇪DE | vless | @V2RayTz | 17",
+                "🇨🇷CR | vless | @V2RayTz | 19",
                 "🇸🇪SE | vless | @VmessProtocol | 20",
                 "🇨🇦CA | vless | @sinabigo | 1",
                 "🇨🇦CA | vless | @SafeNet_Server | 13",
@@ -171,7 +172,7 @@
             "outbounds": [
                 "🇺🇸US | vless | @EliV2ray | 13",
                 "🇨🇦CA | vless | @v2_team | 18",
-                "🇨🇷CR | vless | @XsV2ray | 13",
+                "🇺🇸US | vless | @XsV2ray | 13",
                 "🇫🇷FR | vless | @VlessConfig | 15",
                 "🏳️XX | vless | @ipV2Ray | 19",
                 "🇨🇦CA | vless | @melov2ray | 5",
@@ -179,7 +180,7 @@
                 "🇩🇪DE | vless | @ARv2ray | 14",
                 "🇸🇪SE | vless | @Lockey_vpn | 5",
                 "🇨🇦CA | vless | @free_v2rayyy | 8",
-                "🇺🇸US | vless | @lightning6 | 14",
+                "🇨🇷CR | vless | @lightning6 | 14",
                 "🇺🇸US | vless | @V2rayNGmat | 1",
                 "🇩🇪DE | vless | @CUSTOMVPNSERVER | 14",
                 "🇨🇷CR | vless | @DigiV2ray | 15",
@@ -188,6 +189,7 @@
                 "🇩🇪DE | vless | @v2logy | 18",
                 "🇨🇦CA | vless | @V2rayCollector | 1",
                 "🇨🇷CR | vless | @azadi_az_inja_migzare | 15",
+                "🇨🇦CA | vless | @V2rayCollectorDonate | 19",
                 "🇺🇸US | vless | @V2rayNGn | 24",
                 "🇸🇪SE | vless | @prrofile_purple | 177",
                 "🇨🇦CA | vless | @customv2ray | 16",
@@ -205,7 +207,7 @@
                 "🇨🇦CA | vless | @MsV2ray | 9",
                 "🇨🇦CA | vless | @v2ray1_ng | 1",
                 "🏳️XX | vless | @MTConfig | 21",
-                "🇩🇪DE | vless | @V2RayTz | 17",
+                "🇨🇷CR | vless | @V2RayTz | 19",
                 "🇸🇪SE | vless | @VmessProtocol | 20",
                 "🇨🇦CA | vless | @sinabigo | 1",
                 "🇨🇦CA | vless | @SafeNet_Server | 13",
@@ -308,7 +310,7 @@
             }
         },
         {
-            "tag": "🇨🇷CR | vless | @XsV2ray | 13",
+            "tag": "🇺🇸US | vless | @XsV2ray | 13",
             "type": "vless",
             "server": "all.vipxali.cfd",
             "server_port": 2083,
@@ -539,7 +541,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | vless | @lightning6 | 14",
+            "tag": "🇨🇷CR | vless | @lightning6 | 14",
             "type": "vless",
             "server": "LIGHTNING6-joinbede.liV2ray.xyz",
             "server_port": 2083,
@@ -824,6 +826,37 @@
                 "path": "\/Telegram:,@GozargahVPN,@GozargahVPN,@GozargahVPN,@GozargahVPN,@GozargahVPN,@GozargahVPN,@GozargahVPN,@GozargahVPN,@GozargahVPN,@GozargahVPN,@GozargahVPN,@GozargahVPN,@GozargahVPN,@GozargahVPN,@GozargahVPN",
                 "headers": {
                     "Host": "cocacola.vazagh.top"
+                }
+            }
+        },
+        {
+            "tag": "🇨🇦CA | vless | @V2rayCollectorDonate | 19",
+            "type": "vless",
+            "server": "w3.sylarsun.eu.org",
+            "server_port": 443,
+            "uuid": "89420825-e589-4735-bee1-6dc636fca343",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "w3.sylarsun.eu.org",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/",
+                "headers": {
+                    "Host": "w3.sylarsun.eu.org"
                 }
             }
         },
@@ -1292,12 +1325,12 @@
             }
         },
         {
-            "tag": "🇩🇪DE | vless | @V2RayTz | 17",
+            "tag": "🇨🇷CR | vless | @V2RayTz | 19",
             "type": "vless",
-            "server": "44-Join.V2RayTz.sbs",
-            "server_port": 443,
-            "uuid": "telegram-id-ArV2ray",
-            "flow": "xtls-rprx-vision",
+            "server": "42-Join.V2RayTz.sbs",
+            "server_port": 2087,
+            "uuid": "4a50c453-83d6-44a1-adbd-e10d97967e40",
+            "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
@@ -1306,25 +1339,20 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "ftp.debian.org",
+                "server_name": "SHHPROXY.snappfoodd.site",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
                     "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "4nD1BePSmFIVGUqXPqY6qfWfXPRP81RrUmPrMn_rOw8",
-                    "short_id": "21eb91c4"
+                    "fingerprint": "chrome"
                 }
             },
             "transport": {
-                "type": "grpc",
-                "service_name": "@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray",
-                "idle_timeout": "15s",
-                "ping_timeout": "15s",
-                "permit_without_stream": false
+                "type": "ws",
+                "path": "\/",
+                "headers": {
+                    "Host": "SHHPROXY.snappfoodd.site"
+                }
             }
         },
         {
