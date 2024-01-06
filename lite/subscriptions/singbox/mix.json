@@ -112,12 +112,12 @@
                 "🇫🇷FR | vless | @VlessConfig | 15",
                 "🏳️XX | vless | @ipV2Ray | 19",
                 "🇨🇦CA | vless | @melov2ray | 5",
-                "🇨🇷CR | vless | @frev2ray | 5",
+                "🇺🇸US | vless | @frev2ray | 5",
                 "🇩🇪DE | vless | @ARv2ray | 14",
                 "🇸🇪SE | vless | @Lockey_vpn | 5",
                 "🇨🇦CA | vless | @free_v2rayyy | 8",
                 "🇨🇷CR | vless | @lightning6 | 14",
-                "🇺🇸US | vless | @V2rayNGmat | 1",
+                "🇨🇷CR | vless | @V2rayNGmat | 1",
                 "🇩🇪DE | vless | @CUSTOMVPNSERVER | 14",
                 "🇨🇷CR | vless | @DigiV2ray | 15",
                 "🇨🇦CA | vless | @DarkTeam_VPN | 17",
@@ -126,7 +126,7 @@
                 "🇨🇦CA | vless | @V2rayCollector | 1",
                 "🏳️XX | vless | @azadi_az_inja_migzare | 22",
                 "🇨🇦CA | vless | @V2rayCollectorDonate | 19",
-                "🇨🇷CR | vless | @V2rayNGn | 24",
+                "🇺🇸US | vless | @V2rayNGn | 24",
                 "🇫🇷FR | trojan | @PrivateVPNs | 15",
                 "🇫🇷FR | trojan | @DirectVPN | 15",
                 "🇫🇷FR | vmess | @v2ray_outlineir | 0",
@@ -165,7 +165,6 @@
                 "🏳️XX | vless | @Capoit | 3",
                 "🇺🇸US | vless | @FreakConfig | 12",
                 "🇮🇷IR | vless | @flyv2ray | 14",
-                "🏳️XX | vmess | @forwardv2ray | 19",
                 "🇨🇦CA | vless | @FAKEOFTVC | 3",
                 "🇨🇦CA | vless | @https_config_injector | 15",
                 "🇺🇸US | vless | @mehrosaboran | 14",
@@ -189,12 +188,12 @@
                 "🇫🇷FR | vless | @VlessConfig | 15",
                 "🏳️XX | vless | @ipV2Ray | 19",
                 "🇨🇦CA | vless | @melov2ray | 5",
-                "🇨🇷CR | vless | @frev2ray | 5",
+                "🇺🇸US | vless | @frev2ray | 5",
                 "🇩🇪DE | vless | @ARv2ray | 14",
                 "🇸🇪SE | vless | @Lockey_vpn | 5",
                 "🇨🇦CA | vless | @free_v2rayyy | 8",
                 "🇨🇷CR | vless | @lightning6 | 14",
-                "🇺🇸US | vless | @V2rayNGmat | 1",
+                "🇨🇷CR | vless | @V2rayNGmat | 1",
                 "🇩🇪DE | vless | @CUSTOMVPNSERVER | 14",
                 "🇨🇷CR | vless | @DigiV2ray | 15",
                 "🇨🇦CA | vless | @DarkTeam_VPN | 17",
@@ -203,7 +202,7 @@
                 "🇨🇦CA | vless | @V2rayCollector | 1",
                 "🏳️XX | vless | @azadi_az_inja_migzare | 22",
                 "🇨🇦CA | vless | @V2rayCollectorDonate | 19",
-                "🇨🇷CR | vless | @V2rayNGn | 24",
+                "🇺🇸US | vless | @V2rayNGn | 24",
                 "🇫🇷FR | trojan | @PrivateVPNs | 15",
                 "🇫🇷FR | trojan | @DirectVPN | 15",
                 "🇫🇷FR | vmess | @v2ray_outlineir | 0",
@@ -242,7 +241,6 @@
                 "🏳️XX | vless | @Capoit | 3",
                 "🇺🇸US | vless | @FreakConfig | 12",
                 "🇮🇷IR | vless | @flyv2ray | 14",
-                "🏳️XX | vmess | @forwardv2ray | 19",
                 "🇨🇦CA | vless | @FAKEOFTVC | 3",
                 "🇨🇦CA | vless | @https_config_injector | 15",
                 "🇺🇸US | vless | @mehrosaboran | 14",
@@ -460,7 +458,7 @@
             }
         },
         {
-            "tag": "🇨🇷CR | vless | @frev2ray | 5",
+            "tag": "🇺🇸US | vless | @frev2ray | 5",
             "type": "vless",
             "server": "all.vpncustomize.cam",
             "server_port": 2095,
@@ -598,7 +596,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | vless | @V2rayNGmat | 1",
+            "tag": "🇨🇷CR | vless | @V2rayNGmat | 1",
             "type": "vless",
             "server": "V2ray.motorcycles",
             "server_port": 2087,
@@ -887,7 +885,7 @@
             }
         },
         {
-            "tag": "🇨🇷CR | vless | @V2rayNGn | 24",
+            "tag": "🇺🇸US | vless | @V2rayNGn | 24",
             "type": "vless",
             "server": "all.vpncustomize.cam",
             "server_port": 443,
@@ -1923,40 +1921,6 @@
                 "path": "\/opeta",
                 "headers": {
                     "Host": "minecraft.opeta.cfd"
-                }
-            }
-        },
-        {
-            "tag": "🏳️XX | vmess | @forwardv2ray | 19",
-            "type": "vmess",
-            "server": "mci.mosi.mosipro.ml",
-            "server_port": 443,
-            "uuid": "EA2A2CA4-1C8A-4F4E-ABB5-684191349EC3",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "Dusseldorf.kotick.site",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/speedtest",
-                "headers": {
-                    "Host": "Dusseldorf.kotick.site"
                 }
             }
         },
