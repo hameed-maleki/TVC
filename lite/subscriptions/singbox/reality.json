@@ -326,7 +326,7 @@
         {
             "tag": "🇸🇪SE | vless | @v2rayNG_Matsuri | 8",
             "type": "vless",
-            "server": "16.16.92.78",
+            "server": "13.53.139.180",
             "server_port": 443,
             "uuid": "2c59ff33-916d-459b-a4c0-8b7432c4c3bb",
             "flow": "xtls-rprx-vision",
@@ -347,8 +347,8 @@
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "BuPKkhe3_eX4FYpuBHAQrXhFA3N9ESOjb1gbUwDhwWc",
-                    "short_id": "34"
+                    "public_key": "EmcJnAmgmizra9H-aY3vS2UpyjJ9CcdpygtVWs2fRVA",
+                    "short_id": "e4"
                 }
             }
         },
