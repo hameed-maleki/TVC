@@ -107,18 +107,18 @@
             "outbounds": [
                 "URL-TEST",
                 "🇸🇬SG | vless | @EliV2ray | 18",
-                "🇳🇱NL | vless | @XsV2ray | 1",
+                "🇨🇦CA | vless | @XsV2ray | 1",
                 "🇸🇪SE | vless | @VlessConfig | 16",
                 "🇺🇸US | vless | @VPNCUSTOMIZE | 29",
                 "🏳️XX | vless | @ipV2Ray | 19",
                 "🇨🇦CA | vless | @melov2ray | 5",
-                "🏳️XX | vless | @V2pedia | 7",
+                "🇳🇱NL | vless | @V2pedia | 7",
                 "🇨🇦CA | vless | @frev2ray | 6",
                 "🇩🇪DE | vless | @ARv2ray | 14",
                 "🇨🇷CR | vless | @shh_proxy | 17",
                 "🇸🇪SE | vless | @Lockey_vpn | 5",
                 "🇨🇷CR | vless | @lightning6 | 22",
-                "🇨🇷CR | vless | @V2rayNGmat | 1",
+                "🇺🇸US | vless | @V2rayNGmat | 1",
                 "🇩🇪DE | vless | @CUSTOMVPNSERVER | 14",
                 "🇨🇷CR | vless | @DigiV2ray | 15",
                 "🇨🇦CA | vless | @DarkTeam_VPN | 20",
@@ -142,7 +142,7 @@
                 "🇩🇪DE | vless | @MTConfig | 21",
                 "🇩🇪DE | vless | @V2RayTz | 15",
                 "🇨🇦CA | vless | @VmessProtocol | 21",
-                "🇯🇵JP | vless | @DailyV2RY | 127",
+                "🇬🇧GB | vless | @DailyV2RY | 130",
                 "🇨🇦CA | vless | @sinabigo | 4",
                 "🇨🇦CA | vless | @SafeNet_Server | 12",
                 "🇨🇦CA | vless | @lrnbymaa | 11",
@@ -172,18 +172,18 @@
             "type": "urltest",
             "outbounds": [
                 "🇸🇬SG | vless | @EliV2ray | 18",
-                "🇳🇱NL | vless | @XsV2ray | 1",
+                "🇨🇦CA | vless | @XsV2ray | 1",
                 "🇸🇪SE | vless | @VlessConfig | 16",
                 "🇺🇸US | vless | @VPNCUSTOMIZE | 29",
                 "🏳️XX | vless | @ipV2Ray | 19",
                 "🇨🇦CA | vless | @melov2ray | 5",
-                "🏳️XX | vless | @V2pedia | 7",
+                "🇳🇱NL | vless | @V2pedia | 7",
                 "🇨🇦CA | vless | @frev2ray | 6",
                 "🇩🇪DE | vless | @ARv2ray | 14",
                 "🇨🇷CR | vless | @shh_proxy | 17",
                 "🇸🇪SE | vless | @Lockey_vpn | 5",
                 "🇨🇷CR | vless | @lightning6 | 22",
-                "🇨🇷CR | vless | @V2rayNGmat | 1",
+                "🇺🇸US | vless | @V2rayNGmat | 1",
                 "🇩🇪DE | vless | @CUSTOMVPNSERVER | 14",
                 "🇨🇷CR | vless | @DigiV2ray | 15",
                 "🇨🇦CA | vless | @DarkTeam_VPN | 20",
@@ -207,7 +207,7 @@
                 "🇩🇪DE | vless | @MTConfig | 21",
                 "🇩🇪DE | vless | @V2RayTz | 15",
                 "🇨🇦CA | vless | @VmessProtocol | 21",
-                "🇯🇵JP | vless | @DailyV2RY | 127",
+                "🇬🇧GB | vless | @DailyV2RY | 130",
                 "🇨🇦CA | vless | @sinabigo | 4",
                 "🇨🇦CA | vless | @SafeNet_Server | 12",
                 "🇨🇦CA | vless | @lrnbymaa | 11",
@@ -283,7 +283,7 @@
             }
         },
         {
-            "tag": "🇳🇱NL | vless | @XsV2ray | 1",
+            "tag": "🇨🇦CA | vless | @XsV2ray | 1",
             "type": "vless",
             "server": "all.vipxali.cfd",
             "server_port": 2053,
@@ -316,7 +316,7 @@
         {
             "tag": "🇸🇪SE | vless | @VlessConfig | 16",
             "type": "vless",
-            "server": "13.53.231.30",
+            "server": "16.170.28.76",
             "server_port": 22222,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -438,7 +438,7 @@
             }
         },
         {
-            "tag": "🏳️XX | vless | @V2pedia | 7",
+            "tag": "🇳🇱NL | vless | @V2pedia | 7",
             "type": "vless",
             "server": "cltechip-mci.argha-v2pedia.monster",
             "server_port": 8443,
@@ -617,7 +617,7 @@
             }
         },
         {
-            "tag": "🇨🇷CR | vless | @V2rayNGmat | 1",
+            "tag": "🇺🇸US | vless | @V2rayNGmat | 1",
             "type": "vless",
             "server": "V2ray.motorcycles",
             "server_port": 2087,
@@ -1292,11 +1292,11 @@
             }
         },
         {
-            "tag": "🇯🇵JP | vless | @DailyV2RY | 127",
+            "tag": "🇬🇧GB | vless | @DailyV2RY | 130",
             "type": "vless",
-            "server": "V2ray-Alpha.Alpha6.top",
-            "server_port": 2096,
-            "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
+            "server": "de-righ.v2rayng12023.sbs",
+            "server_port": 443,
+            "uuid": "d115ff1f-752b-4d9d-aeb4-3f2400c9b576",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1306,7 +1306,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "ed.ariesver.online",
+                "server_name": "god-like1.maxteam.sbs",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -1315,11 +1315,11 @@
                 }
             },
             "transport": {
-                "type": "ws",
-                "path": "\/path\/telegram\/V2ray_Alpha\/",
-                "headers": {
-                    "Host": "ed.ariesver.online"
-                }
+                "type": "grpc",
+                "service_name": "6NgPo3Hat\/@v2rayng12023\/@v2rayng12023\/@v2rayng12023\/@v2rayng12023\/@v2rayng12023\/@v2rayng12023\/@v2rayng12023\/@v2rayng12023\/@v2rayng12023\/@v2rayng12023\/@v2rayng12023\/@v2rayng12023",
+                "idle_timeout": "15s",
+                "ping_timeout": "15s",
+                "permit_without_stream": false
             }
         },
         {
@@ -1527,9 +1527,9 @@
         {
             "tag": "🇨🇦CA | vless | @Outlinev2rayNG | 14",
             "type": "vless",
-            "server": "172.66.47.74",
-            "server_port": 80,
-            "uuid": "da8d0369-0121-4d2b-9fe1-c071833604cf",
+            "server": "104.18.202.209",
+            "server_port": 2087,
+            "uuid": "59d41026-71d3-40d7-b53e-35c95f92b243",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1537,11 +1537,21 @@
                 "protocol": "smux",
                 "max_streams": 32
             },
+            "tls": {
+                "enabled": true,
+                "server_name": "signal.alpha4.top",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
             "transport": {
                 "type": "ws",
-                "path": "\/@Archive_Android,@Archive_Android,@Archive_Android,@Archive_Android,@Archive_Android,@Archive_Android,@Archive_Android,@Archive_Android,@Archive_Android,@Archive_Android,@Archive_Android,@Archive_Android,@Archive_Android,@Archive_Android,@Archive_Android,@Archive_Android",
+                "path": "\/",
                 "headers": {
-                    "Host": "172.66.47.74"
+                    "Host": "signal.alpha4.top"
                 }
             }
         },
