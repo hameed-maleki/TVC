@@ -109,6 +109,7 @@
                 "🇫🇷FR | vmess | @v2ray_outlineir | 0",
                 "🇱🇹LT | vmess | @mftizi | 18",
                 "🇨🇦CA | vmess | @oneclickvpnkeys | 11",
+                "🏳️XX | vmess | @ConfigsHUB | 17",
                 "🇨🇳CN | vmess | @yaney_01 | 10",
                 "🇨🇦CA | vmess | @Hope_Net | 11",
                 "🇺🇸US | vmess | @v2Line | 7",
@@ -122,6 +123,7 @@
                 "🇫🇷FR | vmess | @v2ray_outlineir | 0",
                 "🇱🇹LT | vmess | @mftizi | 18",
                 "🇨🇦CA | vmess | @oneclickvpnkeys | 11",
+                "🏳️XX | vmess | @ConfigsHUB | 17",
                 "🇨🇳CN | vmess | @yaney_01 | 10",
                 "🇨🇦CA | vmess | @Hope_Net | 11",
                 "🇺🇸US | vmess | @v2Line | 7",
@@ -207,6 +209,30 @@
             "transport": {
                 "type": "ws",
                 "path": "\/743",
+                "headers": {
+                    "Host": ""
+                }
+            }
+        },
+        {
+            "tag": "🏳️XX | vmess | @ConfigsHUB | 17",
+            "type": "vmess",
+            "server": "DE1.ircf.eu.ORG",
+            "server_port": 8080,
+            "uuid": "d612bbf3-14d0-4d1d-a21c-166e98a3b49c",
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/@x2rayn_vpn@x2rayn_vpn@x2rayn_vpn",
                 "headers": {
                     "Host": ""
                 }
