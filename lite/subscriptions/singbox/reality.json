@@ -500,7 +500,7 @@
         {
             "tag": "🇸🇪SE | vless | @Outlinev2rayNG | 14",
             "type": "vless",
-            "server": "13.49.159.247",
+            "server": "16.16.139.172",
             "server_port": 443,
             "uuid": "2c59ff33-916d-459b-a4c0-8b7432c4c3bb",
             "flow": "xtls-rprx-vision",
@@ -521,8 +521,8 @@
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "2kFalTuNFrCI4cnIqoNVkKKeQ4DwPZZIqsZLv13_sAg",
-                    "short_id": "90031b"
+                    "public_key": "hbifFNdBWbBy7IA0zWLaCsDbg1K7gi_iTGe1AzO94iE",
+                    "short_id": "3344b39b"
                 }
             }
         },
