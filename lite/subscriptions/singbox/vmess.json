@@ -111,7 +111,7 @@
                 "🇳🇱NL | vmess | @oneclickvpnkeys | 8",
                 "🇨🇦CA | vmess | @prrofile_purple | 167",
                 "🇨🇳CN | vmess | @yaney_01 | 10",
-                "🇨🇦CA | vmess | @Hope_Net | 14",
+                "🇨🇦CA | vmess | @Hope_Net | 16",
                 "🇺🇸US | vmess | @v2Line | 7",
                 "🇫🇷FR | vmess | @eliya_chiter0 | 1"
             ]
@@ -125,7 +125,7 @@
                 "🇳🇱NL | vmess | @oneclickvpnkeys | 8",
                 "🇨🇦CA | vmess | @prrofile_purple | 167",
                 "🇨🇳CN | vmess | @yaney_01 | 10",
-                "🇨🇦CA | vmess | @Hope_Net | 14",
+                "🇨🇦CA | vmess | @Hope_Net | 16",
                 "🇺🇸US | vmess | @v2Line | 7",
                 "🇫🇷FR | vmess | @eliya_chiter0 | 1"
             ],
@@ -263,7 +263,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | vmess | @Hope_Net | 14",
+            "tag": "🇨🇦CA | vmess | @Hope_Net | 16",
             "type": "vmess",
             "server": "104.17.110.63",
             "server_port": 80,
