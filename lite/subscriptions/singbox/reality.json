@@ -113,11 +113,9 @@
                 "🇩🇪DE | vless | @V2RayTz | 18",
                 "🏳️XX | vless | @fnet00 | 10",
                 "🏳️XX | vless | @Capital_NET | 52",
-                "🇩🇪DE | vless | @Capoit | 3",
-                "🇩🇪DE | vless | @forwardv2ray | 19",
                 "🇸🇪SE | vless | @kiava | 15",
                 "🇫🇮FI | vless | @proxy_mtm | 24",
-                "🇨🇦CA | vless | @vpn_go67 | 23",
+                "🇺🇸US | vless | @vpn_go67 | 23",
                 "🇺🇸US | vless | @FoXrayIran | 6"
             ]
         },
@@ -132,11 +130,9 @@
                 "🇩🇪DE | vless | @V2RayTz | 18",
                 "🏳️XX | vless | @fnet00 | 10",
                 "🏳️XX | vless | @Capital_NET | 52",
-                "🇩🇪DE | vless | @Capoit | 3",
-                "🇩🇪DE | vless | @forwardv2ray | 19",
                 "🇸🇪SE | vless | @kiava | 15",
                 "🇫🇮FI | vless | @proxy_mtm | 24",
-                "🇨🇦CA | vless | @vpn_go67 | 23",
+                "🇺🇸US | vless | @vpn_go67 | 23",
                 "🇺🇸US | vless | @FoXrayIran | 6"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
@@ -398,71 +394,6 @@
             }
         },
         {
-            "tag": "🇩🇪DE | vless | @Capoit | 3",
-            "type": "vless",
-            "server": "49.13.19.113",
-            "server_port": 443,
-            "uuid": "5ca228a7-0989-41be-9128-544ae8e5167b",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "www.speedq.fun",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "M1nq-8a6Y4id6KBQjx9z3JOkfUEJi3ZBw7reC_hFP3s",
-                    "short_id": "963c6427"
-                }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "@ipV2Ray",
-                "idle_timeout": "15s",
-                "ping_timeout": "15s",
-                "permit_without_stream": false
-            }
-        },
-        {
-            "tag": "🇩🇪DE | vless | @forwardv2ray | 19",
-            "type": "vless",
-            "server": "51.75.86.63",
-            "server_port": 443,
-            "uuid": "974d4696-a900-4d44-b627-9833b8a7b27a",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "flightradar24.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "edge"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "UDABcxpKzAYkuyE4pmST0OSzEUJpQNuSgYIKcgppeh8",
-                    "short_id": "d73382b02fa94fc2"
-                }
-            }
-        },
-        {
             "tag": "🇸🇪SE | vless | @kiava | 15",
             "type": "vless",
             "server": "16.16.167.66",
@@ -528,7 +459,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | vless | @vpn_go67 | 23",
+            "tag": "🇺🇸US | vless | @vpn_go67 | 23",
             "type": "vless",
             "server": "public.alpanel.top",
             "server_port": 1403,
