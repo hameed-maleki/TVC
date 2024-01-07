@@ -106,10 +106,10 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST",
-                "🇸🇬SG | vless | @EliV2ray | 16",
-                "🇳🇱NL | vless | @XsV2ray | 1",
-                "🇫🇷FR | vless | @VlessConfig | 17",
-                "🇨🇷CR | vless | @VPNCUSTOMIZE | 29",
+                "🇸🇬SG | vless | @EliV2ray | 18",
+                "🇨🇦CA | vless | @XsV2ray | 1",
+                "🇬🇧GB | vless | @VlessConfig | 17",
+                "🇺🇸US | vless | @VPNCUSTOMIZE | 29",
                 "🏳️XX | vless | @ipV2Ray | 19",
                 "🇨🇦CA | vless | @melov2ray | 5",
                 "🇨🇦CA | vless | @V2pedia | 7",
@@ -123,21 +123,21 @@
                 "🇩🇪DE | vless | @CUSTOMVPNSERVER | 14",
                 "🇨🇷CR | vless | @DigiV2ray | 15",
                 "🇨🇦CA | vless | @DarkTeam_VPN | 20",
-                "🇺🇸US | vless | @V2raysFree | 7",
+                "🇨🇷CR | vless | @V2raysFree | 7",
                 "🏳️XX | vless | @v2logy | 18",
                 "🇨🇦CA | vless | @azadi_az_inja_migzare | 25",
                 "🇳🇱NL | vless | @V2rayCollectorDonate | 19",
-                "🇨🇦CA | vless | @ProxyForOpeta | 2",
-                "🇨🇷CR | vless | @V2rayNGn | 25",
-                "🇫🇷FR | trojan | @PrivateVPNs | 17",
+                "🇨🇦CA | vless | @ProxyForOpeta | 3",
+                "🇺🇸US | vless | @V2rayNGn | 25",
+                "🇬🇧GB | trojan | @PrivateVPNs | 17",
                 "🇺🇸US | trojan | @DirectVPN | 17",
                 "🇫🇷FR | vmess | @v2ray_outlineir | 0",
                 "🇱🇹LT | vmess | @mftizi | 18",
-                "🇨🇦CA | vmess | @oneclickvpnkeys | 8",
+                "🇨🇦CA | vmess | @oneclickvpnkeys | 9",
                 "🇳🇱NL | vless | @prrofile_purple | 167",
                 "🇨🇦CA | vless | @customv2ray | 15",
                 "🇨🇦CA | vless | @UnlimitedDev | 8",
-                "🇺🇸US | vless | @vmessorg | 19",
+                "🇨🇦CA | vless | @vmessorg | 19",
                 "🇨🇦CA | vless | @v2rayNG_Matsuri | 11",
                 "🇳🇱NL | vless | @v2rayngvpn | 8",
                 "🏳️XX | vless | @FalconPolV2rayNG | 6",
@@ -147,7 +147,7 @@
                 "🇨🇦CA | vless | @v2ray1_ng | 3",
                 "🇩🇪DE | vless | @MTConfig | 21",
                 "🇺🇸US | vless | @V2RayTz | 17",
-                "🇨🇦CA | vless | @VmessProtocol | 21",
+                "🇺🇸US | vless | @VmessProtocol | 21",
                 "🇫🇷FR | vless | @DailyV2RY | 132",
                 "🇨🇦CA | vless | @sinabigo | 4",
                 "🇨🇦CA | vless | @SafeNet_Server | 12",
@@ -164,14 +164,14 @@
                 "🏳️XX | vless | @Capital_NET | 52",
                 "🇺🇸US | vmess | @v2Line | 7",
                 "🇺🇸US | vless | @Capoit | 3",
-                "🇷🇺RU | ss | @forwardv2ray | 18",
+                "🇨🇦CA | vless | @forwardv2ray | 19",
                 "🇺🇸US | vless | @https_config_injector | 15",
-                "🇨🇦CA | vless | @mehrosaboran | 17",
+                "🇺🇸US | vless | @mehrosaboran | 17",
                 "🇸🇪SE | vless | @kiava | 15",
                 "🏳️XX | vless | @nofiltering2 | 12",
                 "🇫🇮FI | vless | @proxy_mtm | 24",
                 "🇨🇦CA | vless | @vpn_go67 | 23",
-                "🇺🇸US | vless | @GozargahVPN | 14",
+                "🇨🇷CR | vless | @GozargahVPN | 14",
                 "🇬🇧GB | vless | @freeconfigv2 | 14",
                 "🇫🇷FR | vmess | @eliya_chiter0 | 1",
                 "🇺🇸US | vless | @FoXrayIran | 6"
@@ -181,10 +181,10 @@
             "tag": "URL-TEST",
             "type": "urltest",
             "outbounds": [
-                "🇸🇬SG | vless | @EliV2ray | 16",
-                "🇳🇱NL | vless | @XsV2ray | 1",
-                "🇫🇷FR | vless | @VlessConfig | 17",
-                "🇨🇷CR | vless | @VPNCUSTOMIZE | 29",
+                "🇸🇬SG | vless | @EliV2ray | 18",
+                "🇨🇦CA | vless | @XsV2ray | 1",
+                "🇬🇧GB | vless | @VlessConfig | 17",
+                "🇺🇸US | vless | @VPNCUSTOMIZE | 29",
                 "🏳️XX | vless | @ipV2Ray | 19",
                 "🇨🇦CA | vless | @melov2ray | 5",
                 "🇨🇦CA | vless | @V2pedia | 7",
@@ -198,21 +198,21 @@
                 "🇩🇪DE | vless | @CUSTOMVPNSERVER | 14",
                 "🇨🇷CR | vless | @DigiV2ray | 15",
                 "🇨🇦CA | vless | @DarkTeam_VPN | 20",
-                "🇺🇸US | vless | @V2raysFree | 7",
+                "🇨🇷CR | vless | @V2raysFree | 7",
                 "🏳️XX | vless | @v2logy | 18",
                 "🇨🇦CA | vless | @azadi_az_inja_migzare | 25",
                 "🇳🇱NL | vless | @V2rayCollectorDonate | 19",
-                "🇨🇦CA | vless | @ProxyForOpeta | 2",
-                "🇨🇷CR | vless | @V2rayNGn | 25",
-                "🇫🇷FR | trojan | @PrivateVPNs | 17",
+                "🇨🇦CA | vless | @ProxyForOpeta | 3",
+                "🇺🇸US | vless | @V2rayNGn | 25",
+                "🇬🇧GB | trojan | @PrivateVPNs | 17",
                 "🇺🇸US | trojan | @DirectVPN | 17",
                 "🇫🇷FR | vmess | @v2ray_outlineir | 0",
                 "🇱🇹LT | vmess | @mftizi | 18",
-                "🇨🇦CA | vmess | @oneclickvpnkeys | 8",
+                "🇨🇦CA | vmess | @oneclickvpnkeys | 9",
                 "🇳🇱NL | vless | @prrofile_purple | 167",
                 "🇨🇦CA | vless | @customv2ray | 15",
                 "🇨🇦CA | vless | @UnlimitedDev | 8",
-                "🇺🇸US | vless | @vmessorg | 19",
+                "🇨🇦CA | vless | @vmessorg | 19",
                 "🇨🇦CA | vless | @v2rayNG_Matsuri | 11",
                 "🇳🇱NL | vless | @v2rayngvpn | 8",
                 "🏳️XX | vless | @FalconPolV2rayNG | 6",
@@ -222,7 +222,7 @@
                 "🇨🇦CA | vless | @v2ray1_ng | 3",
                 "🇩🇪DE | vless | @MTConfig | 21",
                 "🇺🇸US | vless | @V2RayTz | 17",
-                "🇨🇦CA | vless | @VmessProtocol | 21",
+                "🇺🇸US | vless | @VmessProtocol | 21",
                 "🇫🇷FR | vless | @DailyV2RY | 132",
                 "🇨🇦CA | vless | @sinabigo | 4",
                 "🇨🇦CA | vless | @SafeNet_Server | 12",
@@ -239,14 +239,14 @@
                 "🏳️XX | vless | @Capital_NET | 52",
                 "🇺🇸US | vmess | @v2Line | 7",
                 "🇺🇸US | vless | @Capoit | 3",
-                "🇷🇺RU | ss | @forwardv2ray | 18",
+                "🇨🇦CA | vless | @forwardv2ray | 19",
                 "🇺🇸US | vless | @https_config_injector | 15",
-                "🇨🇦CA | vless | @mehrosaboran | 17",
+                "🇺🇸US | vless | @mehrosaboran | 17",
                 "🇸🇪SE | vless | @kiava | 15",
                 "🏳️XX | vless | @nofiltering2 | 12",
                 "🇫🇮FI | vless | @proxy_mtm | 24",
                 "🇨🇦CA | vless | @vpn_go67 | 23",
-                "🇺🇸US | vless | @GozargahVPN | 14",
+                "🇨🇷CR | vless | @GozargahVPN | 14",
                 "🇬🇧GB | vless | @freeconfigv2 | 14",
                 "🇫🇷FR | vmess | @eliya_chiter0 | 1",
                 "🇺🇸US | vless | @FoXrayIran | 6"
@@ -272,7 +272,7 @@
             "type": "dns"
         },
         {
-            "tag": "🇸🇬SG | vless | @EliV2ray | 16",
+            "tag": "🇸🇬SG | vless | @EliV2ray | 18",
             "type": "vless",
             "server": "206.238.236.36",
             "server_port": 8443,
@@ -303,7 +303,7 @@
             }
         },
         {
-            "tag": "🇳🇱NL | vless | @XsV2ray | 1",
+            "tag": "🇨🇦CA | vless | @XsV2ray | 1",
             "type": "vless",
             "server": "all.vipxali.cfd",
             "server_port": 2053,
@@ -334,9 +334,9 @@
             }
         },
         {
-            "tag": "🇫🇷FR | vless | @VlessConfig | 17",
+            "tag": "🇬🇧GB | vless | @VlessConfig | 17",
             "type": "vless",
-            "server": "13.37.93.101",
+            "server": "3.9.201.138",
             "server_port": 22222,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -365,7 +365,7 @@
             }
         },
         {
-            "tag": "🇨🇷CR | vless | @VPNCUSTOMIZE | 29",
+            "tag": "🇺🇸US | vless | @VPNCUSTOMIZE | 29",
             "type": "vless",
             "server": "all.vpncustomize.cam",
             "server_port": 443,
@@ -797,7 +797,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | vless | @V2raysFree | 7",
+            "tag": "🇨🇷CR | vless | @V2raysFree | 7",
             "type": "vless",
             "server": "V2ray.motorcycles",
             "server_port": 2087,
@@ -911,7 +911,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | vless | @ProxyForOpeta | 2",
+            "tag": "🇨🇦CA | vless | @ProxyForOpeta | 3",
             "type": "vless",
             "server": "cdn.kamran008a.shop",
             "server_port": 443,
@@ -942,7 +942,7 @@
             }
         },
         {
-            "tag": "🇨🇷CR | vless | @V2rayNGn | 25",
+            "tag": "🇺🇸US | vless | @V2rayNGn | 25",
             "type": "vless",
             "server": "all.vpncustomize.cam",
             "server_port": 443,
@@ -973,9 +973,9 @@
             }
         },
         {
-            "tag": "🇫🇷FR | trojan | @PrivateVPNs | 17",
+            "tag": "🇬🇧GB | trojan | @PrivateVPNs | 17",
             "type": "trojan",
-            "server": "35.181.229.235",
+            "server": "3.11.170.124",
             "server_port": 22222,
             "password": "telegram-id-privatevpns",
             "multiplex": {
@@ -997,7 +997,7 @@
         {
             "tag": "🇺🇸US | trojan | @DirectVPN | 17",
             "type": "trojan",
-            "server": "54.190.178.134",
+            "server": "18.220.54.248",
             "server_port": 22222,
             "password": "telegram-id-directvpn",
             "multiplex": {
@@ -1058,7 +1058,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | vmess | @oneclickvpnkeys | 8",
+            "tag": "🇨🇦CA | vmess | @oneclickvpnkeys | 9",
             "type": "vmess",
             "server": "172.67.161.104",
             "server_port": 80,
@@ -1155,7 +1155,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | vless | @vmessorg | 19",
+            "tag": "🇨🇦CA | vless | @vmessorg | 19",
             "type": "vless",
             "server": "1joinbede.vmessorg.xyz",
             "server_port": 80,
@@ -1416,7 +1416,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | vless | @VmessProtocol | 21",
+            "tag": "🇺🇸US | vless | @VmessProtocol | 21",
             "type": "vless",
             "server": "3k.pureboy.eu.org",
             "server_port": 443,
@@ -1880,14 +1880,35 @@
             }
         },
         {
-            "tag": "🇷🇺RU | ss | @forwardv2ray | 18",
-            "type": "shadowsocks",
-            "server": "vpn-ru.wwp.im",
-            "server_port": 15174,
-            "method": "chacha20-ietf-poly1305",
-            "password": "qYZGVXZ1dr1aqKdJO6HTPt",
-            "plugin": "",
-            "plugin_opts": ""
+            "tag": "🇨🇦CA | vless | @forwardv2ray | 19",
+            "type": "vless",
+            "server": "www.unpkg.com",
+            "server_port": 443,
+            "uuid": "b9ad895b-12ac-40fc-a5ac-a5b2a1285001",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "3k.pureboy.eu.org",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/",
+                "headers": {
+                    "Host": "3k.pureboy.eu.org"
+                }
+            }
         },
         {
             "tag": "🇺🇸US | vless | @https_config_injector | 15",
@@ -1921,7 +1942,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | vless | @mehrosaboran | 17",
+            "tag": "🇺🇸US | vless | @mehrosaboran | 17",
             "type": "vless",
             "server": "172.66.47.74",
             "server_port": 443,
@@ -2074,7 +2095,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | vless | @GozargahVPN | 14",
+            "tag": "🇨🇷CR | vless | @GozargahVPN | 14",
             "type": "vless",
             "server": "GozargahVPN.vazagh.top",
             "server_port": 443,
