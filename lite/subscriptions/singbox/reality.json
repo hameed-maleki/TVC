@@ -112,13 +112,11 @@
                 "🇸🇪SE | vless | @Lockey_vpn | 6",
                 "🇩🇪DE | vless | @CUSTOMVPNSERVER | 14",
                 "🇩🇪DE | vless | @v2logy | 18",
-                "🇦🇺AU | vless | @V2rayCollectorDonate | 18",
                 "🇸🇪SE | vless | @prrofile_purple | 166",
                 "🇩🇪DE | vless | @MTConfig | 21",
                 "🇸🇪SE | vless | @VmessProtocol | 17",
                 "🏳️XX | vless | @fnet00 | 10",
                 "🏳️XX | vless | @Capital_NET | 52",
-                "🇸🇪SE | vless | @forwardv2ray | 19",
                 "🇸🇪SE | vless | @kiava | 10",
                 "🇩🇪DE | vless | @proxy_mtm | 3",
                 "🇨🇦CA | vless | @vpn_go67 | 23",
@@ -135,13 +133,11 @@
                 "🇸🇪SE | vless | @Lockey_vpn | 6",
                 "🇩🇪DE | vless | @CUSTOMVPNSERVER | 14",
                 "🇩🇪DE | vless | @v2logy | 18",
-                "🇦🇺AU | vless | @V2rayCollectorDonate | 18",
                 "🇸🇪SE | vless | @prrofile_purple | 166",
                 "🇩🇪DE | vless | @MTConfig | 21",
                 "🇸🇪SE | vless | @VmessProtocol | 17",
                 "🏳️XX | vless | @fnet00 | 10",
                 "🏳️XX | vless | @Capital_NET | 52",
-                "🇸🇪SE | vless | @forwardv2ray | 19",
                 "🇸🇪SE | vless | @kiava | 10",
                 "🇩🇪DE | vless | @proxy_mtm | 3",
                 "🇨🇦CA | vless | @vpn_go67 | 23",
@@ -377,35 +373,6 @@
             }
         },
         {
-            "tag": "🇦🇺AU | vless | @V2rayCollectorDonate | 18",
-            "type": "vless",
-            "server": "api.rustbridge.site",
-            "server_port": 443,
-            "uuid": "3b8b1369-37b1-41a2-a8a6-95fa4c586962",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "redis-insights.easywindows.store",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "random"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "3vJzpDw1QI3vOGwaKpRrTT9KTlaz9tzQkWWPGHOSaTw",
-                    "short_id": "1828e11bb1f5c660"
-                }
-            }
-        },
-        {
             "tag": "🇸🇪SE | vless | @prrofile_purple | 166",
             "type": "vless",
             "server": "16.16.220.210",
@@ -561,35 +528,6 @@
                     "enabled": true,
                     "public_key": "90WvSEDjTWdVj1U5JPXphB6VZ4ojR42tZN7PuEeRqXM",
                     "short_id": "dc838e556e8a86bd"
-                }
-            }
-        },
-        {
-            "tag": "🇸🇪SE | vless | @forwardv2ray | 19",
-            "type": "vless",
-            "server": "123-Join.V2RayTz.sbs",
-            "server_port": 443,
-            "uuid": "2c59ff33-916d-459b-a4c0-8b7432c4c3bb",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "coinmarketcap.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "rrxaevH9D_L-Pnhfzkp2ZymkrYxtsJjVDRaeNm4PNAc",
-                    "short_id": "1db3"
                 }
             }
         },
