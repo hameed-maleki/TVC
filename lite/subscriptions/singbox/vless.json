@@ -158,7 +158,7 @@
                 "🇨🇷CR | vless | @Capoit | 5",
                 "🇩🇪DE | vless | @flyv2ray | 13",
                 "🇨🇦CA | vless | @FAKEOFTVC | 4",
-                "🇺🇸US | vless | @https_config_injector | 15",
+                "🇨🇦CA | vless | @https_config_injector | 15",
                 "🇨🇷CR | vless | @mehrosaboran | 13",
                 "🇸🇪SE | vless | @kiava | 15",
                 "🏳️XX | vless | @nofiltering2 | 12",
@@ -223,7 +223,7 @@
                 "🇨🇷CR | vless | @Capoit | 5",
                 "🇩🇪DE | vless | @flyv2ray | 13",
                 "🇨🇦CA | vless | @FAKEOFTVC | 4",
-                "🇺🇸US | vless | @https_config_injector | 15",
+                "🇨🇦CA | vless | @https_config_injector | 15",
                 "🇨🇷CR | vless | @mehrosaboran | 13",
                 "🇸🇪SE | vless | @kiava | 15",
                 "🏳️XX | vless | @nofiltering2 | 12",
@@ -1478,9 +1478,9 @@
         {
             "tag": "🇨🇦CA | vless | @ConfigsHUB | 19",
             "type": "vless",
-            "server": "104.18.202.212",
-            "server_port": 443,
-            "uuid": "a99cbf1e-031d-401e-ae97-0b3db53d0c52",
+            "server": "172.67.204.84",
+            "server_port": 80,
+            "uuid": "e1a928be-e289-4aef-b92e-4106fabdf42f",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1488,22 +1488,12 @@
                 "protocol": "smux",
                 "max_streams": 32
             },
-            "tls": {
-                "enabled": true,
-                "server_name": "FreaV2rayng.VPNCUSTOMIZE.tech",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
             "transport": {
-                "type": "grpc",
-                "service_name": "‌@VPNCUSTOMIZE",
-                "idle_timeout": "15s",
-                "ping_timeout": "15s",
-                "permit_without_stream": false
+                "type": "ws",
+                "path": "\/",
+                "headers": {
+                    "Host": "172.67.204.84"
+                }
             }
         },
         {
@@ -1753,7 +1743,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | vless | @https_config_injector | 15",
+            "tag": "🇨🇦CA | vless | @https_config_injector | 15",
             "type": "vless",
             "server": "172.67.170.103",
             "server_port": 443,
