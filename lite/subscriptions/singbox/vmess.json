@@ -111,7 +111,7 @@
                 "🇱🇹LT | vmess | @mftizi | 18",
                 "🇩🇪DE | vmess | @oneclickvpnkeys | 7",
                 "🇨🇳CN | vmess | @yaney_01 | 10",
-                "🇮🇷IR | vmess | @Hope_Net | 18",
+                "🇨🇦CA | vmess | @Hope_Net | 18",
                 "🇺🇸US | vmess | @v2Line | 7",
                 "🇫🇷FR | vmess | @eliya_chiter0 | 3"
             ]
@@ -125,7 +125,7 @@
                 "🇱🇹LT | vmess | @mftizi | 18",
                 "🇩🇪DE | vmess | @oneclickvpnkeys | 7",
                 "🇨🇳CN | vmess | @yaney_01 | 10",
-                "🇮🇷IR | vmess | @Hope_Net | 18",
+                "🇨🇦CA | vmess | @Hope_Net | 18",
                 "🇺🇸US | vmess | @v2Line | 7",
                 "🇫🇷FR | vmess | @eliya_chiter0 | 3"
             ],
@@ -266,11 +266,11 @@
             }
         },
         {
-            "tag": "🇮🇷IR | vmess | @Hope_Net | 18",
+            "tag": "🇨🇦CA | vmess | @Hope_Net | 18",
             "type": "vmess",
-            "server": "iran.komakonline2.online",
-            "server_port": 80,
-            "uuid": "51e44d9d-ace9-49a5-bdad-b5868cec62bc",
+            "server": "a3.bcbot.in",
+            "server_port": 8880,
+            "uuid": "ce9aadc8-8c6e-4867-d247-9a84b469ac27",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
@@ -280,6 +280,13 @@
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/",
+                "headers": {
+                    "Host": ""
+                }
             }
         },
         {
