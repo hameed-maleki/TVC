@@ -109,7 +109,7 @@
                 "🇫🇷FR | vmess | @v2ray_outlineir | 0",
                 "🇱🇹LT | vmess | @mftizi | 18",
                 "🇩🇪DE | vmess | @oneclickvpnkeys | 7",
-                "🏳️XX | vmess | @ConfigsHUB | 19",
+                "🏳️XX | vmess | @ConfigsHUB | 18",
                 "🇨🇳CN | vmess | @yaney_01 | 10",
                 "🇫🇷FR | vmess | @Hope_Net | 18",
                 "🇮🇷IR | vmess | @MrV2Ray | 0",
@@ -124,7 +124,7 @@
                 "🇫🇷FR | vmess | @v2ray_outlineir | 0",
                 "🇱🇹LT | vmess | @mftizi | 18",
                 "🇩🇪DE | vmess | @oneclickvpnkeys | 7",
-                "🏳️XX | vmess | @ConfigsHUB | 19",
+                "🏳️XX | vmess | @ConfigsHUB | 18",
                 "🇨🇳CN | vmess | @yaney_01 | 10",
                 "🇫🇷FR | vmess | @Hope_Net | 18",
                 "🇮🇷IR | vmess | @MrV2Ray | 0",
@@ -210,7 +210,7 @@
             }
         },
         {
-            "tag": "🏳️XX | vmess | @ConfigsHUB | 19",
+            "tag": "🏳️XX | vmess | @ConfigsHUB | 18",
             "type": "vmess",
             "server": null,
             "server_port": 0,
