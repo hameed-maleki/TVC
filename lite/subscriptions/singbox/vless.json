@@ -112,7 +112,7 @@
                 "🇩🇪DE | vless | @ipV2Ray | 19",
                 "🇨🇦CA | vless | @melov2ray | 5",
                 "🇨🇦CA | vless | @frev2ray | 4",
-                "🇺🇸US | vless | @ARv2ray | 13",
+                "🇩🇪DE | vless | @ARv2ray | 13",
                 "🇨🇷CR | vless | @shh_proxy | 17",
                 "🇸🇪SE | vless | @Lockey_vpn | 6",
                 "🇨🇦CA | vless | @rxv2ray | 17",
@@ -139,7 +139,7 @@
                 "🇨🇦CA | vless | @ShadowProxy66 | 64",
                 "🇨🇦CA | vless | @Proxy_PJ | 0",
                 "🇨🇦CA | vless | @Qv2rayDONATED | 6",
-                "🇨🇷CR | vless | @proxyymeliii | 15",
+                "🇺🇸US | vless | @proxyymeliii | 15",
                 "🏳️XX | vless | @MsV2ray | 14",
                 "🇨🇦CA | vless | @v2ray1_ng | 5",
                 "🇮🇷IR | vless | @vless_vmess | 4",
@@ -156,9 +156,10 @@
                 "🏳️XX | vless | @fnet00 | 10",
                 "🇨🇦CA | vless | @polproxy | 41",
                 "🇺🇸US | vless | @Outlinev2rayNG | 14",
+                "🇫🇷FR | vless | @v2rayng_vpnrog | 5",
                 "🏳️XX | vless | @Capital_NET | 52",
                 "🇺🇸US | vless | @Capoit | 5",
-                "🇩🇪DE | vless | @forwardv2ray | 19",
+                "🇨🇦CA | vless | @forwardv2ray | 18",
                 "🇳🇱NL | vless | @FAKEOFTVC | 3",
                 "🇺🇸US | vless | @mehrosaboran | 9",
                 "🇸🇪SE | vless | @kiava | 10",
@@ -179,7 +180,7 @@
                 "🇩🇪DE | vless | @ipV2Ray | 19",
                 "🇨🇦CA | vless | @melov2ray | 5",
                 "🇨🇦CA | vless | @frev2ray | 4",
-                "🇺🇸US | vless | @ARv2ray | 13",
+                "🇩🇪DE | vless | @ARv2ray | 13",
                 "🇨🇷CR | vless | @shh_proxy | 17",
                 "🇸🇪SE | vless | @Lockey_vpn | 6",
                 "🇨🇦CA | vless | @rxv2ray | 17",
@@ -206,7 +207,7 @@
                 "🇨🇦CA | vless | @ShadowProxy66 | 64",
                 "🇨🇦CA | vless | @Proxy_PJ | 0",
                 "🇨🇦CA | vless | @Qv2rayDONATED | 6",
-                "🇨🇷CR | vless | @proxyymeliii | 15",
+                "🇺🇸US | vless | @proxyymeliii | 15",
                 "🏳️XX | vless | @MsV2ray | 14",
                 "🇨🇦CA | vless | @v2ray1_ng | 5",
                 "🇮🇷IR | vless | @vless_vmess | 4",
@@ -223,9 +224,10 @@
                 "🏳️XX | vless | @fnet00 | 10",
                 "🇨🇦CA | vless | @polproxy | 41",
                 "🇺🇸US | vless | @Outlinev2rayNG | 14",
+                "🇫🇷FR | vless | @v2rayng_vpnrog | 5",
                 "🏳️XX | vless | @Capital_NET | 52",
                 "🇺🇸US | vless | @Capoit | 5",
-                "🇩🇪DE | vless | @forwardv2ray | 19",
+                "🇨🇦CA | vless | @forwardv2ray | 18",
                 "🇳🇱NL | vless | @FAKEOFTVC | 3",
                 "🇺🇸US | vless | @mehrosaboran | 9",
                 "🇸🇪SE | vless | @kiava | 10",
@@ -452,12 +454,12 @@
             }
         },
         {
-            "tag": "🇺🇸US | vless | @ARv2ray | 13",
+            "tag": "🇩🇪DE | vless | @ARv2ray | 13",
             "type": "vless",
-            "server": "www.ArV2ray.tech",
+            "server": "18.159.78.104",
             "server_port": 443,
             "uuid": "telegram-id-ArV2ray",
-            "flow": "",
+            "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
@@ -466,12 +468,17 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "www.ArV2ray.host",
+                "server_name": "ftp.debian.org",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
                     "enabled": true,
-                    "fingerprint": "chrome"
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "se5QUDwVKT2FKNDpAbYKmPXYRN5rF70irDVkhlZYMHA",
+                    "short_id": "60edc978"
                 }
             },
             "transport": {
@@ -1219,7 +1226,7 @@
             }
         },
         {
-            "tag": "🇨🇷CR | vless | @proxyymeliii | 15",
+            "tag": "🇺🇸US | vless | @proxyymeliii | 15",
             "type": "vless",
             "server": "V2ray.motorcycles",
             "server_port": 2087,
@@ -1695,6 +1702,20 @@
             }
         },
         {
+            "tag": "🇫🇷FR | vless | @v2rayng_vpnrog | 5",
+            "type": "vless",
+            "server": "deragv2ray.net",
+            "server_port": 53623,
+            "uuid": "fe0c3074-1a73-468a-bb92-e418fa0c8ae7",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
+        },
+        {
             "tag": "🏳️XX | vless | @Capital_NET | 52",
             "type": "vless",
             "server": "zhina.abiiidar.tech",
@@ -1755,31 +1776,23 @@
             }
         },
         {
-            "tag": "🇩🇪DE | vless | @forwardv2ray | 19",
+            "tag": "🇨🇦CA | vless | @forwardv2ray | 18",
             "type": "vless",
-            "server": "195.238.122.116",
-            "server_port": 35293,
-            "uuid": "952e3a40-6352-4f15-9199-14e535a4ccb4",
-            "flow": "xtls-rprx-vision",
+            "server": "104.21.59.125",
+            "server_port": 80,
+            "uuid": "e1a928be-e289-4aef-b92e-4106fabdf42f",
+            "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
             },
-            "tls": {
-                "enabled": true,
-                "server_name": "zula.ir",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "iuqsm2XN7PxIiLAJmJTS7ImRdte5tX1V5dDtxb13LUc",
-                    "short_id": "f7fed945"
+            "transport": {
+                "type": "ws",
+                "path": "\/",
+                "headers": {
+                    "Host": "104.21.59.125"
                 }
             }
         },
