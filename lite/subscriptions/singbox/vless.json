@@ -154,10 +154,9 @@
                 "🇺🇸US | vless | @Outlinev2rayNG | 11",
                 "🇫🇷FR | vless | @v2rayng_vpnrog | 6",
                 "🏳️XX | vless | @Capital_NET | 52",
-                "🇨🇷CR | vless | @Capoit | 5",
+                "🇺🇸US | vless | @Capoit | 5",
                 "🇨🇦CA | vless | @FreakConfig | 9",
                 "🇨🇷CR | vless | @flyv2ray | 14",
-                "🇮🇷IR | vless | @forwardv2ray | 18",
                 "🇺🇸US | vless | @FAKEOFTVC | 4",
                 "🇩🇪DE | vless | @mehrosaboran | 10",
                 "🇸🇪SE | vless | @kiava | 10",
@@ -220,10 +219,9 @@
                 "🇺🇸US | vless | @Outlinev2rayNG | 11",
                 "🇫🇷FR | vless | @v2rayng_vpnrog | 6",
                 "🏳️XX | vless | @Capital_NET | 52",
-                "🇨🇷CR | vless | @Capoit | 5",
+                "🇺🇸US | vless | @Capoit | 5",
                 "🇨🇦CA | vless | @FreakConfig | 9",
                 "🇨🇷CR | vless | @flyv2ray | 14",
-                "🇮🇷IR | vless | @forwardv2ray | 18",
                 "🇺🇸US | vless | @FAKEOFTVC | 4",
                 "🇩🇪DE | vless | @mehrosaboran | 10",
                 "🇸🇪SE | vless | @kiava | 10",
@@ -832,9 +830,9 @@
         {
             "tag": "🇨🇦CA | vless | @V2rayCollectorDonate | 19",
             "type": "vless",
-            "server": "www.unpkg.com",
+            "server": "web.bbv2ry.pics",
             "server_port": 443,
-            "uuid": "b9ad895b-12ac-40fc-a5ac-a5b2a1285001",
+            "uuid": "00586362-d1f0-4556-9666-2e60ee0b5e00",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -844,7 +842,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "3k.pureboy.eu.org",
+                "server_name": "Skyy.bbv2ry.pics",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -856,7 +854,7 @@
                 "type": "ws",
                 "path": "\/",
                 "headers": {
-                    "Host": "3k.pureboy.eu.org"
+                    "Host": "Skyy.bbv2ry.pics"
                 }
             }
         },
@@ -1606,7 +1604,7 @@
             }
         },
         {
-            "tag": "🇨🇷CR | vless | @Capoit | 5",
+            "tag": "🇺🇸US | vless | @Capoit | 5",
             "type": "vless",
             "server": "dm.SpeedQ.fun",
             "server_port": 443,
@@ -1695,27 +1693,6 @@
                 "path": "\/",
                 "headers": {
                     "Host": "SHHPROXY.snappfoodd.site"
-                }
-            }
-        },
-        {
-            "tag": "🇮🇷IR | vless | @forwardv2ray | 18",
-            "type": "vless",
-            "server": "81.12.27.6",
-            "server_port": 49102,
-            "uuid": "d2c055ac-0dad-40c6-f619-b30a4e23c9a0",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/",
-                "headers": {
-                    "Host": "81.12.27.6"
                 }
             }
         },
