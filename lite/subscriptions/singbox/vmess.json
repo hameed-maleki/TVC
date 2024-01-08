@@ -110,10 +110,9 @@
                 "🇱🇹LT | vmess | @mftizi | 18",
                 "🇩🇪DE | vmess | @oneclickvpnkeys | 7",
                 "🇨🇳CN | vmess | @yaney_01 | 10",
-                "🏳️XX | vmess | @Hope_Net | 16",
+                "🏳️XX | vmess | @Hope_Net | 18",
                 "🇮🇷IR | vmess | @MrV2Ray | 0",
                 "🇺🇸US | vmess | @v2Line | 7",
-                "🇺🇸US | vmess | @forwardv2ray | 7",
                 "🇫🇷FR | vmess | @eliya_chiter0 | 3"
             ]
         },
@@ -125,10 +124,9 @@
                 "🇱🇹LT | vmess | @mftizi | 18",
                 "🇩🇪DE | vmess | @oneclickvpnkeys | 7",
                 "🇨🇳CN | vmess | @yaney_01 | 10",
-                "🏳️XX | vmess | @Hope_Net | 16",
+                "🏳️XX | vmess | @Hope_Net | 18",
                 "🇮🇷IR | vmess | @MrV2Ray | 0",
                 "🇺🇸US | vmess | @v2Line | 7",
-                "🇺🇸US | vmess | @forwardv2ray | 7",
                 "🇫🇷FR | vmess | @eliya_chiter0 | 3"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
@@ -234,7 +232,7 @@
             }
         },
         {
-            "tag": "🏳️XX | vmess | @Hope_Net | 16",
+            "tag": "🏳️XX | vmess | @Hope_Net | 18",
             "type": "vmess",
             "server": "mci.mosi.mosipro.ml",
             "server_port": 443,
@@ -320,30 +318,6 @@
             "transport": {
                 "type": "ws",
                 "path": "\/racevpn",
-                "headers": {
-                    "Host": ""
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | vmess | @forwardv2ray | 7",
-            "type": "vmess",
-            "server": "172.64.164.47",
-            "server_port": 2095,
-            "uuid": "417d27fb-cb93-3bd8-9bf7-71cd91319821",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/hgcefomn",
                 "headers": {
                     "Host": ""
                 }
