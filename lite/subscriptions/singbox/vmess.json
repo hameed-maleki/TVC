@@ -111,10 +111,9 @@
                 "🇩🇪DE | vmess | @oneclickvpnkeys | 7",
                 "🇳🇱NL | vmess | @ConfigsHUB | 17",
                 "🇨🇳CN | vmess | @yaney_01 | 10",
-                "🇫🇷FR | vmess | @Hope_Net | 18",
+                "🇨🇦CA | vmess | @Hope_Net | 18",
                 "🇮🇷IR | vmess | @MrV2Ray | 0",
                 "🇺🇸US | vmess | @v2Line | 7",
-                "🇳🇱NL | vmess | @forwardv2ray | 18",
                 "🇫🇷FR | vmess | @eliya_chiter0 | 3"
             ]
         },
@@ -127,10 +126,9 @@
                 "🇩🇪DE | vmess | @oneclickvpnkeys | 7",
                 "🇳🇱NL | vmess | @ConfigsHUB | 17",
                 "🇨🇳CN | vmess | @yaney_01 | 10",
-                "🇫🇷FR | vmess | @Hope_Net | 18",
+                "🇨🇦CA | vmess | @Hope_Net | 18",
                 "🇮🇷IR | vmess | @MrV2Ray | 0",
                 "🇺🇸US | vmess | @v2Line | 7",
-                "🇳🇱NL | vmess | @forwardv2ray | 18",
                 "🇫🇷FR | vmess | @eliya_chiter0 | 3"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
@@ -270,11 +268,11 @@
             }
         },
         {
-            "tag": "🇫🇷FR | vmess | @Hope_Net | 18",
+            "tag": "🇨🇦CA | vmess | @Hope_Net | 18",
             "type": "vmess",
-            "server": "fr-full.privateip.net",
+            "server": "104.21.91.73",
             "server_port": 443,
-            "uuid": "04695962-ec9f-4589-b962-263e7b55664c",
+            "uuid": "45f63e92-f782-4cac-84b8-e61cb5a5bfd0",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
@@ -287,7 +285,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "fr-full.privateip.net",
+                "server_name": "adenc35.fixedlfoat.top",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -297,9 +295,9 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/RACEVPN",
+                "path": "\/linkws",
                 "headers": {
-                    "Host": "fr-full.privateip.net"
+                    "Host": "adenc35.fixedlfoat.top"
                 }
             }
         },
@@ -359,23 +357,6 @@
                 "headers": {
                     "Host": ""
                 }
-            }
-        },
-        {
-            "tag": "🇳🇱NL | vmess | @forwardv2ray | 18",
-            "type": "vmess",
-            "server": "91.103.253.103",
-            "server_port": 54172,
-            "uuid": "f583dbda-ca4c-485b-b6e3-829929c6a61b",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
             }
         },
         {
