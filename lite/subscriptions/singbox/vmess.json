@@ -111,7 +111,7 @@
                 "🇨🇦CA | vmess | @oneclickvpnkeys | 7",
                 "🇨🇦CA | vmess | @customv2ray | 16",
                 "🇨🇳CN | vmess | @yaney_01 | 10",
-                "🇳🇱NL | vmess | @Hope_Net | 12",
+                "🇵🇱PL | vmess | @Hope_Net | 13",
                 "🇮🇷IR | vmess | @MrV2Ray | 1",
                 "🇺🇸US | vmess | @v2Line | 6",
                 "🇨🇦CA | vmess | @forwardv2ray | 18",
@@ -128,7 +128,7 @@
                 "🇨🇦CA | vmess | @oneclickvpnkeys | 7",
                 "🇨🇦CA | vmess | @customv2ray | 16",
                 "🇨🇳CN | vmess | @yaney_01 | 10",
-                "🇳🇱NL | vmess | @Hope_Net | 12",
+                "🇵🇱PL | vmess | @Hope_Net | 13",
                 "🇮🇷IR | vmess | @MrV2Ray | 1",
                 "🇺🇸US | vmess | @v2Line | 6",
                 "🇨🇦CA | vmess | @forwardv2ray | 18",
@@ -272,11 +272,11 @@
             }
         },
         {
-            "tag": "🇳🇱NL | vmess | @Hope_Net | 12",
+            "tag": "🇵🇱PL | vmess | @Hope_Net | 13",
             "type": "vmess",
-            "server": "104.193.10.146",
-            "server_port": 10090,
-            "uuid": "8156a9a3-da6c-47b8-8247-939912f8762f",
+            "server": "217.182.76.202",
+            "server_port": 443,
+            "uuid": "2e68015f-a8b2-4893-a7a3-4edb19b178d9",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
@@ -286,6 +286,23 @@
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/",
+                "headers": {
+                    "Host": ""
+                }
             }
         },
         {
@@ -339,9 +356,9 @@
         {
             "tag": "🇨🇦CA | vmess | @forwardv2ray | 18",
             "type": "vmess",
-            "server": "104.31.16.28",
-            "server_port": 80,
-            "uuid": "58fe1542-5290-40ad-815a-77707a81afe5",
+            "server": "104.27.102.105",
+            "server_port": 8080,
+            "uuid": "Telegram-V2ray_alpha",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
@@ -354,7 +371,7 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/IOebhLMhl1CTbFHbL95myfRX2",
+                "path": "\/",
                 "headers": {
                     "Host": ""
                 }
