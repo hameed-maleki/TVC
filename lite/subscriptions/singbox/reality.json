@@ -115,6 +115,7 @@
                 "🇩🇪DE | vless | @MTConfig | 21",
                 "🏳️XX | vless | @fnet00 | 5",
                 "🏳️XX | vless | @Capital_NET | 52",
+                "🇩🇪DE | vless | @forwardv2ray | 18",
                 "🇩🇪DE | vless | @mehrosaboran | 10",
                 "🇸🇪SE | vless | @kiava | 10",
                 "🇩🇪DE | vless | @proxy_mtm | 17",
@@ -135,6 +136,7 @@
                 "🇩🇪DE | vless | @MTConfig | 21",
                 "🏳️XX | vless | @fnet00 | 5",
                 "🏳️XX | vless | @Capital_NET | 52",
+                "🇩🇪DE | vless | @forwardv2ray | 18",
                 "🇩🇪DE | vless | @mehrosaboran | 10",
                 "🇸🇪SE | vless | @kiava | 10",
                 "🇩🇪DE | vless | @proxy_mtm | 17",
@@ -454,6 +456,35 @@
                     "enabled": true,
                     "public_key": "90WvSEDjTWdVj1U5JPXphB6VZ4ojR42tZN7PuEeRqXM",
                     "short_id": "dc838e556e8a86bd"
+                }
+            }
+        },
+        {
+            "tag": "🇩🇪DE | vless | @forwardv2ray | 18",
+            "type": "vless",
+            "server": "windrunner.uk",
+            "server_port": 56853,
+            "uuid": "3f31a280-e11e-4387-89be-d2b1aaca08c1",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "discord.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "YhpNDX_yJ-n0Y_z25vXzI-4bx7etsZnZKGTqARjnYU8",
+                    "short_id": "c2dc122e"
                 }
             }
         },
