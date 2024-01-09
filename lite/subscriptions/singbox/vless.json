@@ -106,7 +106,7 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST",
-                "🇹🇷TR | vless | @EliV2ray | 14",
+                "🇹🇷TR | vless | @EliV2ray | 16",
                 "🇨🇦CA | vless | @XsV2ray | 2",
                 "🇮🇪IE | vless | @VlessConfig | 18",
                 "🇺🇸US | vless | @VPNCUSTOMIZE | 25",
@@ -117,7 +117,7 @@
                 "🇸🇪SE | vless | @Lockey_vpn | 6",
                 "🇨🇦CA | vless | @rxv2ray | 14",
                 "🇨🇦CA | vless | @free_v2rayyy | 8",
-                "🇨🇷CR | vless | @lightning6 | 26",
+                "🇺🇸US | vless | @lightning6 | 26",
                 "🇺🇸US | vless | @V2rayNGmat | 1",
                 "🇩🇪DE | vless | @CUSTOMVPNSERVER | 14",
                 "🇨🇷CR | vless | @DigiV2ray | 13",
@@ -127,7 +127,7 @@
                 "🇨🇷CR | vless | @servermomo | 15",
                 "🇨🇦CA | vless | @V2rayCollectorDonate | 19",
                 "🇨🇦CA | vless | @ProxyForOpeta | 4",
-                "🇺🇸US | vless | @V2rayNGn | 23",
+                "🇨🇷CR | vless | @V2rayNGn | 23",
                 "🇸🇪SE | vless | @prrofile_purple | 166",
                 "🇺🇸US | vless | @ShadowSocks_s | 2",
                 "🇨🇦CA | vless | @UnlimitedDev | 7",
@@ -153,9 +153,9 @@
                 "🇨🇦CA | vless | @polproxy | 42",
                 "🇨🇦CA | vless | @v2rayng_vpnrog | 6",
                 "🏳️XX | vless | @Capital_NET | 52",
-                "🇩🇪DE | vless | @Capoit | 4",
+                "🇩🇪DE | vless | @Capoit | 6",
+                "🇨🇦CA | vless | @FreakConfig | 11",
                 "🇨🇷CR | vless | @flyv2ray | 14",
-                "🇨🇦CA | vless | @forwardv2ray | 19",
                 "🏳️XX | vless | @https_config_injector | 14",
                 "🇩🇪DE | vless | @mehrosaboran | 12",
                 "🇸🇪SE | vless | @kiava | 10",
@@ -169,7 +169,7 @@
             "tag": "URL-TEST",
             "type": "urltest",
             "outbounds": [
-                "🇹🇷TR | vless | @EliV2ray | 14",
+                "🇹🇷TR | vless | @EliV2ray | 16",
                 "🇨🇦CA | vless | @XsV2ray | 2",
                 "🇮🇪IE | vless | @VlessConfig | 18",
                 "🇺🇸US | vless | @VPNCUSTOMIZE | 25",
@@ -180,7 +180,7 @@
                 "🇸🇪SE | vless | @Lockey_vpn | 6",
                 "🇨🇦CA | vless | @rxv2ray | 14",
                 "🇨🇦CA | vless | @free_v2rayyy | 8",
-                "🇨🇷CR | vless | @lightning6 | 26",
+                "🇺🇸US | vless | @lightning6 | 26",
                 "🇺🇸US | vless | @V2rayNGmat | 1",
                 "🇩🇪DE | vless | @CUSTOMVPNSERVER | 14",
                 "🇨🇷CR | vless | @DigiV2ray | 13",
@@ -190,7 +190,7 @@
                 "🇨🇷CR | vless | @servermomo | 15",
                 "🇨🇦CA | vless | @V2rayCollectorDonate | 19",
                 "🇨🇦CA | vless | @ProxyForOpeta | 4",
-                "🇺🇸US | vless | @V2rayNGn | 23",
+                "🇨🇷CR | vless | @V2rayNGn | 23",
                 "🇸🇪SE | vless | @prrofile_purple | 166",
                 "🇺🇸US | vless | @ShadowSocks_s | 2",
                 "🇨🇦CA | vless | @UnlimitedDev | 7",
@@ -216,9 +216,9 @@
                 "🇨🇦CA | vless | @polproxy | 42",
                 "🇨🇦CA | vless | @v2rayng_vpnrog | 6",
                 "🏳️XX | vless | @Capital_NET | 52",
-                "🇩🇪DE | vless | @Capoit | 4",
+                "🇩🇪DE | vless | @Capoit | 6",
+                "🇨🇦CA | vless | @FreakConfig | 11",
                 "🇨🇷CR | vless | @flyv2ray | 14",
-                "🇨🇦CA | vless | @forwardv2ray | 19",
                 "🏳️XX | vless | @https_config_injector | 14",
                 "🇩🇪DE | vless | @mehrosaboran | 12",
                 "🇸🇪SE | vless | @kiava | 10",
@@ -248,7 +248,7 @@
             "type": "dns"
         },
         {
-            "tag": "🇹🇷TR | vless | @EliV2ray | 14",
+            "tag": "🇹🇷TR | vless | @EliV2ray | 16",
             "type": "vless",
             "server": "213.142.159.87",
             "server_port": 48906,
@@ -575,7 +575,7 @@
             }
         },
         {
-            "tag": "🇨🇷CR | vless | @lightning6 | 26",
+            "tag": "🇺🇸US | vless | @lightning6 | 26",
             "type": "vless",
             "server": "LIGHTNING6-joinbede.liV2ray.xyz",
             "server_port": 2083,
@@ -880,7 +880,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | vless | @V2rayNGn | 23",
+            "tag": "🇨🇷CR | vless | @V2rayNGn | 23",
             "type": "vless",
             "server": "all.vpncustomize.cam",
             "server_port": 443,
@@ -1559,7 +1559,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | vless | @Capoit | 4",
+            "tag": "🇩🇪DE | vless | @Capoit | 6",
             "type": "vless",
             "server": "49.12.97.39",
             "server_port": 443,
@@ -1595,6 +1595,37 @@
             }
         },
         {
+            "tag": "🇨🇦CA | vless | @FreakConfig | 11",
+            "type": "vless",
+            "server": "104.26.15.80",
+            "server_port": 8443,
+            "uuid": "215fe998-29ae-4e84-9471-2bdb211b1742",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "free.foxnim.site",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "@networknim",
+                "idle_timeout": "15s",
+                "ping_timeout": "15s",
+                "permit_without_stream": false
+            }
+        },
+        {
             "tag": "🇨🇷CR | vless | @flyv2ray | 14",
             "type": "vless",
             "server": "V2ray.motorcycles",
@@ -1622,27 +1653,6 @@
                 "path": "\/",
                 "headers": {
                     "Host": "SHHPROXY.snappfoodd.site"
-                }
-            }
-        },
-        {
-            "tag": "🇨🇦CA | vless | @forwardv2ray | 19",
-            "type": "vless",
-            "server": "full.turk.coffee",
-            "server_port": 80,
-            "uuid": "4bf1e9bc-3a94-4400-8f51-14d7ea723c12",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/,Turk",
-                "headers": {
-                    "Host": "full.turk.coffee"
                 }
             }
         },
