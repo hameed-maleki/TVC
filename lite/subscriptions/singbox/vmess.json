@@ -106,12 +106,10 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST",
-                "🇨🇦CA | vmess | @V2rayCollectorDonate | 19",
                 "🇫🇷FR | vmess | @v2ray_outlineir | 0",
                 "🇭🇰HK | vmess | @mftizi | 18",
                 "🇫🇷FR | vmess | @oneclickvpnkeys | 7",
                 "🇮🇷IR | vmess | @ShadowProxy66 | 44",
-                "🇭🇰HK | vmess | @ConfigsHUB | 5",
                 "🇨🇳CN | vmess | @yaney_01 | 10",
                 "🇩🇪DE | vmess | @Hope_Net | 13",
                 "🇮🇷IR | vmess | @MrV2Ray | 1",
@@ -123,12 +121,10 @@
             "tag": "URL-TEST",
             "type": "urltest",
             "outbounds": [
-                "🇨🇦CA | vmess | @V2rayCollectorDonate | 19",
                 "🇫🇷FR | vmess | @v2ray_outlineir | 0",
                 "🇭🇰HK | vmess | @mftizi | 18",
                 "🇫🇷FR | vmess | @oneclickvpnkeys | 7",
                 "🇮🇷IR | vmess | @ShadowProxy66 | 44",
-                "🇭🇰HK | vmess | @ConfigsHUB | 5",
                 "🇨🇳CN | vmess | @yaney_01 | 10",
                 "🇩🇪DE | vmess | @Hope_Net | 13",
                 "🇮🇷IR | vmess | @MrV2Ray | 1",
@@ -154,40 +150,6 @@
         {
             "tag": "dns-out",
             "type": "dns"
-        },
-        {
-            "tag": "🇨🇦CA | vmess | @V2rayCollectorDonate | 19",
-            "type": "vmess",
-            "server": "mb.alooo.site",
-            "server_port": 2087,
-            "uuid": "1523c9d0-5e35-4dcb-b652-0bda0c2f7d04",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "new.alooo.site",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/",
-                "headers": {
-                    "Host": "new.alooo.site"
-                }
-            }
         },
         {
             "tag": "🇫🇷FR | vmess | @v2ray_outlineir | 0",
@@ -279,30 +241,6 @@
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            }
-        },
-        {
-            "tag": "🇭🇰HK | vmess | @ConfigsHUB | 5",
-            "type": "vmess",
-            "server": "85.208.104.22",
-            "server_port": 40400,
-            "uuid": "eb6f75a1-3cee-4935-c76c-115114a36c09",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/eb6f75a1",
-                "headers": {
-                    "Host": ""
-                }
             }
         },
         {
